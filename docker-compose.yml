@@ -1,0 +1,38 @@
+version: '3.8'
+
+services:
+  timescaledb:
+    image: timescale/timescaledb:latest-pg14
+    container_name: timescaledb
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: elnor007
+      POSTGRES_DB: my_database
+    ports:
+      - "5432:5432"
+    volumes:
+      - timescaledb_data:/var/lib/postgresql/data
+
+  grafana:
+    image: grafana/grafana:latest
+    container_name: grafana1
+    ports:
+      - "3000:3000"
+    depends_on:
+      - timescaledb
+      - renderer
+    environment:
+      GF_RENDERING_SERVER_URL: http://renderer:8081/render
+      GF_RENDERING_CALLBACK_URL: http://grafana1:3000/
+    volumes:
+      - /home/$USER/vivacity/grafana-data:/var/lib/grafana
+      - /home/$USER/vivacity/grafana_ini/grafana.ini:/etc/grafana/grafana.ini
+
+  renderer:
+    image: grafana/grafana-image-renderer:latest
+    container_name: renderer
+    ports:
+      - "8081:8081"
+
+volumes:
+  timescaledb_data:

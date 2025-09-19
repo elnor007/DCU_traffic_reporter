@@ -1,0 +1,58 @@
+= Weekly DCU Traffic Report
+
+This report consists of data retrieved from three different countlines: Path, inbound road and outbound road.
+
+== Path Countline
+
+grafana_panel_image:1[dashboard="151463bf-b3af-484e-ba2f-5a66d30a0157", from="now-28d", to="now"]
+
+grafana_panel_image:2[dashboard="151463bf-b3af-484e-ba2f-5a66d30a0157", from="now-28d", to="now"]
+
+grafana_panel_image:3[dashboard="151463bf-b3af-484e-ba2f-5a66d30a0157", from="now-28d", to="now"]
+
+grafana_panel_image:4[dashboard="151463bf-b3af-484e-ba2f-5a66d30a0157", from="now-28d", to="now"]
+
+
+<<<
+
+
+== Inbound Road Countline
+
+grafana_panel_image:1[dashboard="e32b8e88-5254-420c-8f78-4b0bd2df1f53", from="now-28d", to="now"]
+
+grafana_panel_image:2[dashboard="e32b8e88-5254-420c-8f78-4b0bd2df1f53", from="now-28d", to="now"]
+
+grafana_panel_image:3[dashboard="e32b8e88-5254-420c-8f78-4b0bd2df1f53", from="now-28d", to="now"]
+
+grafana_panel_image:4[dashboard="e32b8e88-5254-420c-8f78-4b0bd2df1f53", from="now-28d", to="now"]
+
+
+<<<
+
+
+== Outbound Road Countline
+
+grafana_panel_image:1[dashboard="3c96457b-280e-4045-8262-742ba34bfad3", from="now-28d", to="now"]
+
+grafana_panel_image:2[dashboard="3c96457b-280e-4045-8262-742ba34bfad3", from="now-28d", to="now"]
+
+grafana_panel_image:3[dashboard="3c96457b-280e-4045-8262-742ba34bfad3", from="now-28d", to="now"]
+
+grafana_panel_image:4[dashboard="3c96457b-280e-4045-8262-742ba34bfad3", from="now-28d", to="now"]
+
+
+<<<
+
+
+== Explanation of each Panel Type
+
+++++
+Countline<countline_type>Classes_Hourly_28days : Provides hourly traffic data for each class of vehicle (bus, car, cyclist, motorbike, pedestrian, rigid), where each class
+is given a separate line graph and a unique colour. Data is from the previous 4 weeks.
+
+Countline<countline_type>Classes_Daily_28days : Provides daily traffic data for each class of vehicle. Data is from the previous 4 weeks.
+
+Countline<countline_type>Total_AVG/Day_28Days : Provides average total traffic for each day of the week, where the average for each day is based on the previous 4 weeks.
+
+Countline<countline_type>Total_AVG/Hour/Day_28Days : Provides average total traffic for every hour (0 - 23) of every day of the week. Data is based on the previous 4 weeks.
+++++

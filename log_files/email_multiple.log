@@ -1,0 +1,1581 @@
+
+
+
+
+
+2025-08-15 09:12:51.442783+00:00 : email_multiple.py has been initiated.
+
+2025-08-15 09:12:51.442850+00:00 : Watching folder : /home/ec2-user/vivacity/ruby/reports for new PDFs...
+
+2025-08-15 09:13:42.931960+00:00 : Detected PDF: /home/ec2-user/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-15.pdf
+
+2025-08-15 09:13:47.660743+00:00 : Email sent with attachment : /home/ec2-user/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-15.pdf
+
+
+
+
+
+2025-08-15 09:13:48.519139+00:00 : Watching folder : /home/ec2-user/vivacity/ruby/reports for new PDFs...
+
+
+
+
+
+
+2025-08-15 09:17:12.279273+00:00 : email_multiple.py has been initiated.
+
+2025-08-15 09:17:12.279341+00:00 : Watching folder : /home/ec2-user/vivacity/ruby/reports for new PDFs...
+
+2025-08-15 09:18:04.064949+00:00 : Detected PDF: /home/ec2-user/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-15.pdf
+
+2025-08-15 09:18:08.821825+00:00 : Email sent with attachment : /home/ec2-user/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-15.pdf
+
+
+
+
+
+
+
+
+
+
+2025-08-15 09:33:33.231169+00:00 : email_multiple.py has been initiated.
+
+2025-08-15 09:33:33.231256+00:00 : Watching folder : /home/ec2-user/vivacity/ruby/reports for new PDFs...
+
+2025-08-15 09:34:32.064653+00:00 : Detected PDF: /home/ec2-user/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-15.pdf
+
+2025-08-15 09:34:37.180326+00:00 : Email sent with attachment : /home/ec2-user/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-15.pdf
+
+
+
+
+
+
+
+
+
+
+2025-08-15 09:25:01.837347+00:00 : email_multiple.py has been initiated.
+
+2025-08-15 09:25:01.837483+00:00 : Watching folder : /home/ec2-user/vivacity/ruby/reports for new PDFs...
+
+2025-08-15 09:34:32.060624+00:00 : Detected PDF: /home/ec2-user/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-15.pdf
+
+2025-08-15 09:34:36.795516+00:00 : Email sent with attachment : /home/ec2-user/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-15.pdf
+
+
+
+
+
+
+
+
+
+
+2025-08-15 09:35:14.143927+00:00 : email_multiple.py has been initiated.
+
+2025-08-15 09:35:14.143996+00:00 : Watching folder : /home/ec2-user/vivacity/ruby/reports for new PDFs...
+
+2025-08-15 09:36:09.187607+00:00 : Detected PDF: /home/ec2-user/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-15.pdf
+
+2025-08-15 09:36:13.815308+00:00 : Email sent with attachment : /home/ec2-user/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-15.pdf
+
+
+
+
+
+
+
+
+
+
+2025-08-15 09:41:34.129257+00:00 : email_multiple.py has been initiated.
+
+2025-08-15 09:41:34.129330+00:00 : Watching folder : /home/ec2-user/vivacity/ruby/reports for new PDFs...
+
+
+
+
+
+
+2025-08-15 09:42:42.508854+00:00 : email_multiple.py has been initiated.
+
+2025-08-15 09:42:42.508925+00:00 : Watching folder : /home/ec2-user/vivacity/ruby/reports for new PDFs...
+
+
+
+
+
+
+2025-08-15 09:50:38.062557+00:00 : email_multiple.py has been initiated.
+
+{datetime.now(timezone.utc)} : Observer already running. Exiting.
+
+
+
+
+
+
+2025-08-15 10:14:12.420831+00:00 : email_multiple.py has been initiated.
+
+2025-08-15 10:14:12.420908+00:00 : Watching folder : /home/ec2-user/vivacity/ruby/reports for new PDFs...
+
+2025-08-15 10:17:45.848444+00:00 : Detected PDF: /home/ec2-user/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-15.pdf
+
+2025-08-15 10:17:51.355094+00:00 : Email sent with attachment : /home/ec2-user/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-15.pdf
+
+
+
+
+
+
+
+
+
+
+2025-08-15 10:22:48.507006+00:00 : email_multiple.py has been initiated.
+
+2025-08-15 10:22:48.507076+00:00 : Watching folder : /home/ec2-user/vivacity/ruby/reports for new PDFs...
+
+2025-08-15 10:26:42.839986+00:00 : Detected PDF: /home/ec2-user/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-15.pdf
+
+2025-08-15 10:26:48.066277+00:00 : Email sent with attachment : /home/ec2-user/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-15.pdf
+
+
+
+
+
+
+
+
+
+
+2025-08-15 10:57:35.284601+00:00 : email_multiple.py has been initiated.
+
+2025-08-15 10:57:35.284772+00:00 : Watching folder : /home/ec2-user/vivacity/ruby/reports for new PDFs...
+
+
+
+
+
+
+2025-08-15 11:03:12.308225+00:00 : email_multiple.py has been initiated.
+
+2025-08-15 11:03:12.308292+00:00 : Watching folder : /home/ec2-user/vivacity/ruby/reports for new PDFs...
+
+
+
+
+
+
+2025-08-15 11:14:53.666942+00:00 : email_multiple.py has been initiated.
+
+2025-08-15 11:14:53.667028+00:00 : Watching folder : /home/ec2-user/vivacity/ruby/reports for new PDFs...
+
+
+
+
+
+
+2025-08-15 11:20:10.857160+00:00 : email_multiple.py has been initiated.
+
+2025-08-15 11:20:10.857260+00:00 : Watching folder : /home/ec2-user/vivacity/ruby/reports for new PDFs...
+
+
+
+
+
+
+2025-08-15 11:45:11.847050+00:00 : email_multiple.py has been initiated.
+
+2025-08-15 11:45:11.847125+00:00 : Watching folder : /home/ec2-user/vivacity/ruby/reports for new PDFs...
+
+
+
+
+
+
+2025-08-15 11:45:22.922422+00:00 : email_multiple.py has been initiated.
+
+2025-08-15 11:45:22.922492+00:00 : Watching folder : /home/ec2-user/vivacity/ruby/reports for new PDFs...
+
+2025-08-15 11:54:24.339876+00:00 : Detected PDF: /home/ec2-user/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-15.pdf
+
+2025-08-15 11:54:29.561902+00:00 : Email sent with attachment : /home/ec2-user/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-15.pdf
+
+
+
+
+
+
+
+
+
+
+2025-08-15 12:54:56.657221+00:00 : email_multiple.py has been initiated.
+
+2025-08-15 12:54:56.657310+00:00 : Watching folder : /home/ec2-user/vivacity/ruby/reports for new PDFs...
+
+
+
+
+
+
+2025-08-15 13:07:43.680674+00:00 : email_multiple.py has been initiated.
+
+2025-08-15 13:07:43.680835+00:00 : Watching folder : /home/ec2-user/vivacity/ruby/reports for new PDFs...
+
+2025-08-15 13:09:33.240852+00:00 : Detected PDF: /home/ec2-user/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-15.pdf
+
+2025-08-15 13:09:38.018140+00:00 : Email sent with attachment : /home/ec2-user/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-15.pdf
+
+
+
+
+
+
+
+
+
+
+2025-08-15 13:12:02.020745+00:00 : email_multiple.py has been initiated.
+
+2025-08-15 13:12:02.020822+00:00 : Watching folder : /home/ec2-user/vivacity/ruby/reports for new PDFs...
+
+
+
+
+
+
+2025-08-15 13:13:08.033031+00:00 : email_multiple.py has been initiated.
+
+2025-08-15 13:13:08.033101+00:00 : Watching folder : /home/ec2-user/vivacity/ruby/reports for new PDFs...
+
+
+
+
+
+
+2025-08-15 13:13:46.692448+00:00 : email_multiple.py has been initiated.
+
+2025-08-15 13:13:46.692521+00:00 : Watching folder : /home/ec2-user/vivacity/ruby/reports for new PDFs...
+
+2025-08-15 13:14:57.873619+00:00 : Detected PDF: /home/ec2-user/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-15.pdf
+
+2025-08-15 13:15:02.670897+00:00 : Email sent with attachment : /home/ec2-user/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-15.pdf
+
+
+
+
+
+
+
+
+
+
+2025-08-15 13:16:14.397899+00:00 : email_multiple.py has been initiated.
+
+2025-08-15 13:16:14.397966+00:00 : Watching folder : /home/ec2-user/vivacity/ruby/reports for new PDFs...
+
+2025-08-15 13:19:27.767733+00:00 : Detected PDF: /home/ec2-user/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-15.pdf
+
+2025-08-15 13:19:32.749974+00:00 : Email sent with attachment : /home/ec2-user/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-15.pdf
+
+
+
+
+
+
+
+
+
+
+2025-08-15 13:21:15.544246+00:00 : email_multiple.py has been initiated.
+
+2025-08-15 13:21:15.544312+00:00 : Watching folder : /home/ec2-user/vivacity/ruby/reports for new PDFs...
+
+2025-08-15 13:26:59.112817+00:00 : Detected PDF: /home/ec2-user/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-15.pdf
+
+2025-08-15 13:27:04.573703+00:00 : Email sent with attachment : /home/ec2-user/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-15.pdf
+
+
+
+
+
+
+
+
+
+
+2025-08-15 13:30:08.030812+00:00 : email_multiple.py has been initiated.
+
+2025-08-15 13:30:08.030899+00:00 : Watching folder : /home/ec2-user/vivacity/ruby/reports for new PDFs...
+
+2025-08-15 13:38:17.645182+00:00 : Detected PDF: /home/ec2-user/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-15.pdf
+
+2025-08-15 13:38:23.066600+00:00 : Email sent with attachment : /home/ec2-user/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-15.pdf
+
+
+
+
+
+
+
+
+
+
+2025-08-15 14:00:01.836475+00:00 : email_multiple.py has been initiated.
+
+2025-08-15 14:00:01.836603+00:00 : Watching folder : /home/ec2-user/vivacity/ruby/reports for new PDFs...
+
+
+
+
+
+
+2025-08-18 15:28:48.459205+00:00 : email_multiple.py has been initiated.
+
+2025-08-18 15:28:48.459269+00:00 : Watching folder : /home/ec2-user/vivacity/ruby/reports for new PDFs...
+
+2025-08-18 15:32:00.410440+00:00 : Detected PDF: /home/ec2-user/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-18.pdf
+
+2025-08-18 15:32:06.085809+00:00 : Email sent with attachment : /home/ec2-user/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-18.pdf
+
+
+
+
+
+
+
+
+
+
+2025-08-18 17:35:21.034240+00:00 : email_multiple.py has been initiated.
+
+2025-08-18 17:35:21.034313+00:00 : Watching folder : /home/ec2-user/vivacity/ruby/reports for new PDFs...
+
+2025-08-18 17:40:43.453003+00:00 : Detected PDF: /home/ec2-user/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-18.pdf
+
+2025-08-18 17:40:49.543470+00:00 : Email sent with attachment : /home/ec2-user/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-18.pdf
+
+
+
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/vivacity/email_multiple.py", line 14, in <module>
+    raise Exception("Fatal error has occurred!")
+Exception: Fatal error has occurred!
+
+
+
+
+
+2025-08-19 10:54:08.582075+00:00 : email_multiple.py has been initiated.
+
+2025-08-19 10:54:09.584072+00:00 : Attempt no. 1 failed, trying again...
+
+Traceback (most recent call last):
+  File "/home/ec2-user/vivacity/email_multiple.py", line 59, in <module>
+    if os.path.exists(LOCK_FILE):
+NameError: name 'LOCK_FILE' is not defined
+Traceback (most recent call last):
+  File "/home/ec2-user/vivacity/email_multiple.py", line 14, in <module>
+    raise Exception("Fatal error has occurred!")
+Exception: Fatal error has occurred!
+
+
+
+
+
+2025-08-19 10:58:46.296337+00:00 : email_multiple.py has been initiated.
+
+2025-08-19 10:58:47.297654+00:00 : Attempt no. 1 failed, trying again...
+
+Traceback (most recent call last):
+  File "/home/ec2-user/vivacity/email_multiple.py", line 59, in <module>
+    if os.path.exists(LOCK_FILE):
+NameError: name 'LOCK_FILE' is not defined
+Traceback (most recent call last):
+  File "/home/ec2-user/vivacity/email_multiple.py", line 15, in <module>
+    raise Exception("Fatal error has occurred!")
+Exception: Fatal error has occurred!
+
+
+
+
+
+2025-08-19 11:04:04.674514+00:00 : email_multiple.py has been initiated.
+
+2025-08-19 11:04:05.675844+00:00 : Attempt no. 1 failed, trying again...
+
+
+
+
+
+
+2025-08-19 11:45:05.968131+00:00 : email_multiple.py has been initiated.
+
+Retry : 0
+FINALLY ENTERED at retry no. 0
+
+
+
+
+
+2025-08-19 11:56:36.729362+00:00 : email_multiple.py has been initiated.
+
+2025-08-19 11:56:37.731060+00:00 : Attempt no. 1 failed, trying again...
+
+2025-08-19 11:56:38.732245+00:00 : Attempt no. 2 failed, trying again...
+
+2025-08-19 11:56:39.733453+00:00 : Attempt no. 3 failed, trying again...
+
+2025-08-19 11:56:40.734484+00:00 : Attempt no. 4 failed, trying again...
+
+2025-08-19 11:56:41.735680+00:00 : Attempt no. 5 failed, trying again...
+
+2025-08-19 11:56:42.736930+00:00 : Attempt no. 6 failed, trying again...
+
+2025-08-19 11:56:43.738170+00:00 : Attempt no. 7 failed, trying again...
+
+2025-08-19 11:56:44.738735+00:00 : Attempt no. 8 failed, trying again...
+
+2025-08-19 11:56:45.739981+00:00 : Attempt no. 9 failed, trying again...
+
+2025-08-19 11:56:46.741229+00:00 : Attempt no. 10 failed, trying again...
+
+2025-08-19 11:56:46.741275+00:00 : Maximum retries have been reached, aborting script...
+
+
+
+
+
+
+
+
+
+
+2025-08-19 12:00:07.155967+00:00 : email_multiple.py has been initiated.
+
+2025-08-19 12:00:08.157247+00:00 : Attempt no. 1 failed, trying again...
+
+2025-08-19 12:00:09.158470+00:00 : Attempt no. 2 failed, trying again...
+
+2025-08-19 12:00:10.158931+00:00 : Attempt no. 3 failed, trying again...
+
+2025-08-19 12:00:11.160133+00:00 : Attempt no. 4 failed, trying again...
+
+2025-08-19 12:00:12.160749+00:00 : Attempt no. 5 failed, trying again...
+
+2025-08-19 12:00:13.161962+00:00 : Attempt no. 6 failed, trying again...
+
+2025-08-19 12:00:14.163171+00:00 : Attempt no. 7 failed, trying again...
+
+2025-08-19 12:00:15.164393+00:00 : Attempt no. 8 failed, trying again...
+
+2025-08-19 12:00:16.165031+00:00 : Attempt no. 9 failed, trying again...
+
+2025-08-19 12:00:17.166223+00:00 : Attempt no. 10 failed, trying again...
+
+2025-08-19 12:00:17.166259+00:00 : Maximum retries have been reached, aborting script...
+
+
+
+
+
+
+
+
+
+
+2025-08-19 12:03:29.312367+00:00 : email_multiple.py has been initiated.
+
+2025-08-19 12:03:30.313497+00:00 : Attempt no. 1 failed, trying again...
+
+2025-08-19 12:03:31.314531+00:00 : Attempt no. 2 failed, trying again...
+
+2025-08-19 12:03:32.315729+00:00 : Attempt no. 3 failed, trying again...
+
+2025-08-19 12:03:33.316951+00:00 : Attempt no. 4 failed, trying again...
+
+2025-08-19 12:03:34.318141+00:00 : Attempt no. 5 failed, trying again...
+
+2025-08-19 12:03:35.319364+00:00 : Attempt no. 6 failed, trying again...
+
+2025-08-19 12:03:36.320386+00:00 : Attempt no. 7 failed, trying again...
+
+2025-08-19 12:03:37.321602+00:00 : Attempt no. 8 failed, trying again...
+
+2025-08-19 12:03:38.322809+00:00 : Attempt no. 9 failed, trying again...
+
+2025-08-19 12:03:39.324003+00:00 : Attempt no. 10 failed, trying again...
+
+2025-08-19 12:03:39.324045+00:00 : Maximum retries have been reached, aborting script...
+
+
+
+
+
+
+
+
+
+
+2025-08-19 12:04:02.415710+00:00 : email_multiple.py has been initiated.
+
+2025-08-19 12:04:03.416871+00:00 : Attempt no. 1 failed, trying again...
+
+2025-08-19 12:04:04.417773+00:00 : Attempt no. 2 failed, trying again...
+
+2025-08-19 12:04:05.418987+00:00 : Attempt no. 3 failed, trying again...
+
+2025-08-19 12:04:06.420215+00:00 : Attempt no. 4 failed, trying again...
+
+2025-08-19 12:04:07.421282+00:00 : Attempt no. 5 failed, trying again...
+
+2025-08-19 12:04:08.422108+00:00 : Attempt no. 6 failed, trying again...
+
+2025-08-19 12:04:09.423362+00:00 : Attempt no. 7 failed, trying again...
+
+2025-08-19 12:04:10.424447+00:00 : Attempt no. 8 failed, trying again...
+
+2025-08-19 12:04:11.425679+00:00 : Attempt no. 9 failed, trying again...
+
+2025-08-19 12:04:12.426904+00:00 : Attempt no. 10 failed, trying again...
+
+2025-08-19 12:04:12.426948+00:00 : Maximum retries have been reached, aborting script...
+
+
+
+
+
+
+
+
+
+
+2025-08-19 12:05:44.753596+00:00 : email_multiple.py has been initiated.
+
+2025-08-19 12:05:45.754475+00:00 : Attempt no. 1 failed, trying again...
+
+2025-08-19 12:05:46.755007+00:00 : Attempt no. 2 failed, trying again...
+
+2025-08-19 12:05:47.756179+00:00 : Attempt no. 3 failed, trying again...
+
+2025-08-19 12:05:48.757392+00:00 : Attempt no. 4 failed, trying again...
+
+2025-08-19 12:05:49.758606+00:00 : Attempt no. 5 failed, trying again...
+
+2025-08-19 12:05:50.759850+00:00 : Attempt no. 6 failed, trying again...
+
+2025-08-19 12:05:51.761053+00:00 : Attempt no. 7 failed, trying again...
+
+2025-08-19 12:05:52.762279+00:00 : Attempt no. 8 failed, trying again...
+
+2025-08-19 12:05:53.763488+00:00 : Attempt no. 9 failed, trying again...
+
+2025-08-19 12:05:54.764516+00:00 : Attempt no. 10 failed, trying again...
+
+2025-08-19 12:05:54.764578+00:00 : Maximum retries have been reached, aborting script...
+
+
+
+
+
+
+
+
+
+
+2025-08-19 12:06:31.440102+00:00 : email_multiple.py has been initiated.
+
+2025-08-19 12:06:32.441272+00:00 : Attempt no. 1 failed, trying again...
+
+2025-08-19 12:06:33.442477+00:00 : Attempt no. 2 failed, trying again...
+
+2025-08-19 12:06:34.443708+00:00 : Attempt no. 3 failed, trying again...
+
+2025-08-19 12:06:35.444687+00:00 : Attempt no. 4 failed, trying again...
+
+2025-08-19 12:06:36.445954+00:00 : Attempt no. 5 failed, trying again...
+
+2025-08-19 12:06:37.447205+00:00 : Attempt no. 6 failed, trying again...
+
+2025-08-19 12:06:38.448469+00:00 : Attempt no. 7 failed, trying again...
+
+2025-08-19 12:06:39.449823+00:00 : Attempt no. 8 failed, trying again...
+
+2025-08-19 12:06:40.451069+00:00 : Attempt no. 9 failed, trying again...
+
+2025-08-19 12:06:41.452298+00:00 : Attempt no. 10 failed, trying again...
+
+2025-08-19 12:06:41.452342+00:00 : Maximum retries have been reached, aborting script...
+
+
+
+
+
+
+
+
+
+
+2025-08-19 14:00:00.977218+00:00 : email_multiple.py has been initiated.
+
+2025-08-19 14:00:01.978396+00:00 : Attempt no. 1 failed, trying again...
+
+2025-08-19 14:00:02.979626+00:00 : Attempt no. 2 failed, trying again...
+
+2025-08-19 14:00:03.980847+00:00 : Attempt no. 3 failed, trying again...
+
+2025-08-19 14:00:04.982102+00:00 : Attempt no. 4 failed, trying again...
+
+2025-08-19 14:00:05.983300+00:00 : Attempt no. 5 failed, trying again...
+
+2025-08-19 14:00:06.984490+00:00 : Attempt no. 6 failed, trying again...
+
+2025-08-19 14:00:07.985731+00:00 : Attempt no. 7 failed, trying again...
+
+2025-08-19 14:00:08.986969+00:00 : Attempt no. 8 failed, trying again...
+
+2025-08-19 14:00:09.988188+00:00 : Attempt no. 9 failed, trying again...
+
+2025-08-19 14:00:10.989392+00:00 : Attempt no. 10 failed, trying again...
+
+2025-08-19 14:00:10.989420+00:00 : Maximum retries have been reached, aborting script...
+
+
+
+
+
+/usr/bin/python3: can't find '__main__' module in '/home/ec2-user/vivacity/'
+/usr/bin/python3: can't find '__main__' module in '/home/ec2-user/vivacity/'
+
+
+
+
+
+2025-08-20 10:26:40.750315+00:00 : email_multiple.py has been initiated.
+
+2025-08-20 10:26:41.750883+00:00 : Attempt no. 1 failed, trying again...
+
+2025-08-20 10:26:42.752093+00:00 : Attempt no. 2 failed, trying again...
+
+2025-08-20 10:26:43.753290+00:00 : Attempt no. 3 failed, trying again...
+
+2025-08-20 10:26:44.754508+00:00 : Attempt no. 4 failed, trying again...
+
+2025-08-20 10:26:45.755720+00:00 : Attempt no. 5 failed, trying again...
+
+2025-08-20 10:26:46.756961+00:00 : Attempt no. 6 failed, trying again...
+
+2025-08-20 10:26:47.758180+00:00 : Attempt no. 7 failed, trying again...
+
+2025-08-20 10:26:48.759394+00:00 : Attempt no. 8 failed, trying again...
+
+2025-08-20 10:26:49.760602+00:00 : Attempt no. 9 failed, trying again...
+
+2025-08-20 10:26:50.761815+00:00 : Attempt no. 10 failed, trying again...
+
+2025-08-20 10:26:50.761843+00:00 : Maximum retries have been reached, aborting script...
+
+
+
+
+
+
+
+
+
+
+2025-08-20 10:45:13.701208+00:00 : email_multiple.py has been initiated.
+
+2025-08-20 10:45:14.702216+00:00 : Attempt no. 1 failed, trying again...
+
+2025-08-20 10:45:15.703433+00:00 : Attempt no. 2 failed, trying again...
+
+2025-08-20 10:45:16.704441+00:00 : Attempt no. 3 failed, trying again...
+
+2025-08-20 10:45:17.705652+00:00 : Attempt no. 4 failed, trying again...
+
+2025-08-20 10:45:18.706864+00:00 : Attempt no. 5 failed, trying again...
+
+2025-08-20 10:45:19.708061+00:00 : Attempt no. 6 failed, trying again...
+
+2025-08-20 10:45:20.709293+00:00 : Attempt no. 7 failed, trying again...
+
+2025-08-20 10:45:21.710525+00:00 : Attempt no. 8 failed, trying again...
+
+2025-08-20 10:45:22.711755+00:00 : Attempt no. 9 failed, trying again...
+
+2025-08-20 10:45:23.712991+00:00 : Attempt no. 10 failed, trying again...
+
+2025-08-20 10:45:23.713034+00:00 : Maximum retries have been reached, aborting script...
+
+
+
+
+
+
+
+
+
+
+2025-08-20 10:54:42.557675+00:00 : email_multiple.py has been initiated.
+
+2025-08-20 10:54:42.557739+00:00 : Watching folder : /home/ec2-user/vivacity/ruby/reports for new PDFs...
+
+
+
+
+
+
+2025-08-20 10:55:46.045837+00:00 : email_multiple.py has been initiated.
+
+2025-08-20 10:55:46.045910+00:00 : Watching folder : /home/ec2-user/vivacity/ruby/reports for new PDFs...
+
+
+
+
+
+
+2025-08-20 10:57:12.440870+00:00 : email_multiple.py has been initiated.
+
+2025-08-20 10:57:12.440939+00:00 : Watching folder : /home/ec2-user/vivacity/ruby/reports for new PDFs...
+
+
+
+
+
+
+2025-08-20 10:58:27.980842+00:00 : email_multiple.py has been initiated.
+
+{datetime.now(timezone.utc)} : Observer already running. Exiting.
+
+
+
+
+
+
+2025-08-20 11:12:10.720922+00:00 : email_multiple.py has been initiated.
+
+2025-08-20 11:12:10.721083+00:00 : Watching folder : /home/ec2-user/vivacity/ruby/reports for new PDFs...
+
+
+
+
+
+
+2025-08-20 11:13:40.146555+00:00 : email_multiple.py has been initiated.
+
+2025-08-20 11:13:40.146634+00:00 : Watching folder : /home/ec2-user/vivacity/ruby/reports for new PDFs...
+
+
+
+
+
+
+2025-08-20 11:21:20.441144+00:00 : email_multiple.py has been initiated.
+
+{datetime.now(timezone.utc)} : Observer already running. Exiting.
+
+
+
+
+
+
+2025-08-20 11:22:52.820506+00:00 : email_multiple.py has been initiated.
+
+2025-08-20 11:22:52.820571+00:00 : Watching folder : /home/ec2-user/vivacity/ruby/reports for new PDFs...
+
+
+
+
+
+
+2025-08-20 11:31:25.932081+00:00 : email_multiple.py has been initiated.
+
+{datetime.now(timezone.utc)} : Observer already running. Exiting.
+
+
+
+
+
+
+2025-08-20 11:32:43.202881+00:00 : email_multiple.py has been initiated.
+
+2025-08-20 11:32:43.202950+00:00 : Watching folder : /home/ec2-user/vivacity/ruby/reports for new PDFs...
+
+
+
+
+
+
+2025-08-20 14:00:00.976794+00:00 : email_multiple.py has been initiated.
+
+2025-08-20 14:00:00.976941+00:00 : Watching folder : /home/ec2-user/vivacity/ruby/reports for new PDFs...
+
+
+
+
+
+
+2025-08-21 08:22:00.933969+00:00 : email_multiple.py has been initiated.
+
+2025-08-21 08:22:00.934095+00:00 : Watching folder : /home/ec2-user/vivacity/ruby/reports for new PDFs...
+
+2025-08-21 08:25:33.542115+00:00 : Detected PDF: /home/ec2-user/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-21.pdf
+
+2025-08-21 08:25:39.713452+00:00 : Email sent with attachment : /home/ec2-user/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-21.pdf
+
+
+
+
+
+{datetime.now(timezone.utc)} : Observer already running. Exiting.
+
+Traceback (most recent call last):
+  File "/home/elnor/vivacity/email_multiple.py", line 1, in <module>
+    from imports.email_multiple_helper import *
+  File "/home/elnor/vivacity/imports/email_multiple_helper.py", line 9, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "/home/elnor/vivacity/email_multiple.py", line 1, in <module>
+    from imports.email_multiple_helper import *
+  File "/home/elnor/vivacity/imports/email_multiple_helper.py", line 9, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "/home/elnor/vivacity/email_multiple.py", line 1, in <module>
+    from imports.email_multiple_helper import *
+  File "/home/elnor/vivacity/imports/email_multiple_helper.py", line 9, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "/home/elnor/vivacity/email_multiple.py", line 1, in <module>
+    from imports.email_multiple_helper import *
+  File "/home/elnor/vivacity/imports/email_multiple_helper.py", line 9, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+
+
+
+
+
+2025-08-21 13:38:41.090942+00:00 : email_multiple.py has been initiated.
+
+2025-08-21 13:38:41.091465+00:00 : Watching folder : /home/ec2-user/vivacity/ruby/reports for new PDFs...
+
+Traceback (most recent call last):
+  File "/home/elnor/vivacity/email_multiple.py", line 35, in <module>
+    observer.start()
+  File "/usr/lib/python3/dist-packages/watchdog/observers/api.py", line 261, in start
+    emitter.start()
+  File "/usr/lib/python3/dist-packages/watchdog/utils/__init__.py", line 92, in start
+    self.on_thread_start()
+  File "/usr/lib/python3/dist-packages/watchdog/observers/inotify.py", line 119, in on_thread_start
+    self._inotify = InotifyBuffer(path, self.watch.is_recursive)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/watchdog/observers/inotify_buffer.py", line 37, in __init__
+    self._inotify = Inotify(path, recursive)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/watchdog/observers/inotify_c.py", line 181, in __init__
+    self._add_watch(path, event_mask)
+  File "/usr/lib/python3/dist-packages/watchdog/observers/inotify_c.py", line 416, in _add_watch
+    Inotify._raise_error()
+  File "/usr/lib/python3/dist-packages/watchdog/observers/inotify_c.py", line 432, in _raise_error
+    raise OSError(err, os.strerror(err))
+FileNotFoundError: [Errno 2] No such file or directory
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/elnor/vivacity/email_multiple.py", line 44, in <module>
+    observer.join()
+  File "/usr/lib/python3.12/threading.py", line 1142, in join
+    raise RuntimeError("cannot join thread before it is started")
+RuntimeError: cannot join thread before it is started
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/elnor/vivacity/email_multiple.py", line 56, in <module>
+    observer.join()
+  File "/usr/lib/python3.12/threading.py", line 1142, in join
+    raise RuntimeError("cannot join thread before it is started")
+RuntimeError: cannot join thread before it is started
+
+
+
+
+
+2025-08-21 13:44:27.698788+00:00 : email_multiple.py has been initiated.
+
+2025-08-21 13:44:27.699139+00:00 : Watching folder : /home/ec2-user/vivacity/ruby/reports for new PDFs...
+
+Traceback (most recent call last):
+  File "/home/elnor/vivacity/email_multiple.py", line 35, in <module>
+    observer.start()
+  File "/usr/lib/python3/dist-packages/watchdog/observers/api.py", line 261, in start
+    emitter.start()
+  File "/usr/lib/python3/dist-packages/watchdog/utils/__init__.py", line 92, in start
+    self.on_thread_start()
+  File "/usr/lib/python3/dist-packages/watchdog/observers/inotify.py", line 119, in on_thread_start
+    self._inotify = InotifyBuffer(path, self.watch.is_recursive)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/watchdog/observers/inotify_buffer.py", line 37, in __init__
+    self._inotify = Inotify(path, recursive)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/watchdog/observers/inotify_c.py", line 181, in __init__
+    self._add_watch(path, event_mask)
+  File "/usr/lib/python3/dist-packages/watchdog/observers/inotify_c.py", line 416, in _add_watch
+    Inotify._raise_error()
+  File "/usr/lib/python3/dist-packages/watchdog/observers/inotify_c.py", line 432, in _raise_error
+    raise OSError(err, os.strerror(err))
+FileNotFoundError: [Errno 2] No such file or directory
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/elnor/vivacity/email_multiple.py", line 44, in <module>
+    observer.join()
+  File "/usr/lib/python3.12/threading.py", line 1142, in join
+    raise RuntimeError("cannot join thread before it is started")
+RuntimeError: cannot join thread before it is started
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/elnor/vivacity/email_multiple.py", line 56, in <module>
+    observer.join()
+  File "/usr/lib/python3.12/threading.py", line 1142, in join
+    raise RuntimeError("cannot join thread before it is started")
+RuntimeError: cannot join thread before it is started
+
+
+
+
+
+2025-08-21 14:05:30.344547+00:00 : email_multiple.py has been initiated.
+
+2025-08-21 14:05:30.345193+00:00 : Watching folder : ~/vivacity/ruby/reports for new PDFs...
+
+Traceback (most recent call last):
+  File "/home/elnor/vivacity/email_multiple.py", line 35, in <module>
+    observer.start()
+  File "/usr/lib/python3/dist-packages/watchdog/observers/api.py", line 261, in start
+    emitter.start()
+  File "/usr/lib/python3/dist-packages/watchdog/utils/__init__.py", line 92, in start
+    self.on_thread_start()
+  File "/usr/lib/python3/dist-packages/watchdog/observers/inotify.py", line 119, in on_thread_start
+    self._inotify = InotifyBuffer(path, self.watch.is_recursive)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/watchdog/observers/inotify_buffer.py", line 37, in __init__
+    self._inotify = Inotify(path, recursive)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/watchdog/observers/inotify_c.py", line 181, in __init__
+    self._add_watch(path, event_mask)
+  File "/usr/lib/python3/dist-packages/watchdog/observers/inotify_c.py", line 416, in _add_watch
+    Inotify._raise_error()
+  File "/usr/lib/python3/dist-packages/watchdog/observers/inotify_c.py", line 432, in _raise_error
+    raise OSError(err, os.strerror(err))
+FileNotFoundError: [Errno 2] No such file or directory
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/elnor/vivacity/email_multiple.py", line 44, in <module>
+    observer.join()
+  File "/usr/lib/python3.12/threading.py", line 1142, in join
+    raise RuntimeError("cannot join thread before it is started")
+RuntimeError: cannot join thread before it is started
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/elnor/vivacity/email_multiple.py", line 56, in <module>
+    observer.join()
+  File "/usr/lib/python3.12/threading.py", line 1142, in join
+    raise RuntimeError("cannot join thread before it is started")
+RuntimeError: cannot join thread before it is started
+
+
+
+
+
+2025-08-21 14:06:22.805296+00:00 : email_multiple.py has been initiated.
+
+2025-08-21 14:06:22.805363+00:00 : Watching folder : /home/elnor/vivacity/ruby/reports for new PDFs...
+
+
+
+
+
+
+2025-08-21 14:09:09.669974+00:00 : email_multiple.py has been initiated.
+
+{datetime.now(timezone.utc)} : Observer already running. Exiting.
+
+
+
+
+
+
+2025-08-21 14:10:27.196829+00:00 : email_multiple.py has been initiated.
+
+2025-08-21 14:10:27.196876+00:00 : Watching folder : /home/elnor/vivacity/ruby/reports for new PDFs...
+
+
+
+
+
+
+2025-08-21 14:11:37.243353+00:00 : email_multiple.py has been initiated.
+
+2025-08-21 14:11:37.243401+00:00 : Watching folder : /home/elnor/vivacity/ruby/reports for new PDFs...
+
+
+
+
+
+
+2025-08-22 06:12:39.981796+00:00 : email_multiple.py has been initiated.
+
+2025-08-22 06:12:39.982043+00:00 : Watching folder : /home/elnor/vivacity/ruby/reports for new PDFs...
+
+
+
+
+
+
+2025-08-22 06:12:59.834877+00:00 : email_multiple.py has been initiated.
+
+2025-08-22 06:12:59.834949+00:00 : Watching folder : /home/elnor/vivacity/ruby/reports for new PDFs...
+
+
+
+
+
+
+2025-08-22 06:19:26.442941+00:00 : email_multiple.py has been initiated.
+
+2025-08-22 06:19:26.443152+00:00 : Watching folder : /home/elnor/vivacity/ruby/reports for new PDFs...
+
+
+
+
+
+
+2025-08-22 08:06:16.587297+00:00 : email_multiple.py has been initiated.
+
+2025-08-22 08:06:16.587387+00:00 : Watching folder : /home/elnor/vivacity/ruby/reports for new PDFs...
+
+
+
+
+
+
+2025-08-22 08:12:37.572913+00:00 : email_multiple.py has been initiated.
+
+2025-08-22 08:12:37.572960+00:00 : Watching folder : /home/elnor/vivacity/ruby/reports for new PDFs...
+
+
+
+
+
+
+2025-08-22 08:22:26.808301+00:00 : email_multiple.py has been initiated.
+
+2025-08-22 08:22:26.808359+00:00 : Watching folder : /home/elnor/vivacity/ruby/reports for new PDFs...
+
+
+
+
+
+
+2025-08-22 08:50:39.271342+00:00 : email_multiple.py has been initiated.
+
+2025-08-22 08:50:39.271383+00:00 : Watching folder : /home/elnor/vivacity/ruby/reports for new PDFs...
+
+
+
+
+
+
+2025-08-22 09:16:21.575219+00:00 : email_multiple.py has been initiated.
+
+2025-08-22 09:16:21.575255+00:00 : Watching folder : /home/elnor/vivacity/ruby/reports for new PDFs...
+
+
+
+
+
+
+2025-08-22 09:25:56.363774+00:00 : email_multiple.py has been initiated.
+
+2025-08-22 09:25:56.363824+00:00 : Watching folder : /home/elnor/vivacity/ruby/reports for new PDFs...
+
+2025-08-22 09:26:19.695184+00:00 : Detected PDF: /home/elnor/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-22.pdf
+
+2025-08-22 09:26:26.439037+00:00 : Email sent with attachment : /home/elnor/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-22.pdf
+
+
+
+
+
+{datetime.now(timezone.utc)} : Observer already running. Exiting.
+
+
+
+
+
+
+2025-08-22 09:44:15.798363+00:00 : email_multiple.py has been initiated.
+
+2025-08-22 09:44:15.798396+00:00 : Watching folder : /home/elnor/vivacity/ruby/reports for new PDFs...
+
+
+
+
+
+
+2025-08-22 09:44:56.800391+00:00 : email_multiple.py has been initiated.
+
+2025-08-22 09:44:56.800427+00:00 : Watching folder : /home/elnor/vivacity/ruby/reports for new PDFs...
+
+
+
+
+
+
+2025-08-22 09:47:28.501047+00:00 : email_multiple.py has been initiated.
+
+2025-08-22 09:47:28.501097+00:00 : Watching folder : /home/elnor/vivacity/ruby/reports for new PDFs...
+
+
+
+
+
+
+2025-08-22 09:48:54.492727+00:00 : email_multiple.py has been initiated.
+
+{datetime.now(timezone.utc)} : Observer already running. Exiting.
+
+
+
+
+
+
+2025-08-22 09:50:04.461662+00:00 : email_multiple.py has been initiated.
+
+2025-08-22 09:50:04.461704+00:00 : Watching folder : /home/elnor/vivacity/ruby/reports for new PDFs...
+
+2025-08-22 09:50:20.114475+00:00 : Detected PDF: /home/elnor/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-22.pdf
+
+2025-08-22 09:50:24.733777+00:00 : Email sent with attachment : /home/elnor/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-22.pdf
+
+
+
+
+
+{datetime.now(timezone.utc)} : Observer already running. Exiting.
+
+
+
+
+
+
+2025-08-22 10:20:02.538605+00:00 : email_multiple.py has been initiated.
+
+2025-08-22 10:20:02.538650+00:00 : Watching folder : /home/elnor/vivacity/ruby/reports for new PDFs...
+
+
+
+
+
+
+2025-08-22 10:21:49.402020+00:00 : email_multiple.py has been initiated.
+
+2025-08-22 10:21:49.402071+00:00 : Watching folder : /home/elnor/vivacity/ruby/reports for new PDFs...
+
+2025-08-22 10:22:32.013190+00:00 : Detected PDF: /home/elnor/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-22.pdf
+
+2025-08-22 10:22:37.955025+00:00 : Email sent with attachment : /home/elnor/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-22.pdf
+
+
+
+
+
+{datetime.now(timezone.utc)} : Observer already running. Exiting.
+
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/threading.py", line 1073, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3/dist-packages/watchdog/observers/api.py", line 204, in run
+    self.dispatch_events(self.event_queue)
+  File "/usr/lib/python3/dist-packages/watchdog/observers/api.py", line 380, in dispatch_events
+    handler.dispatch(event)
+  File "/usr/lib/python3/dist-packages/watchdog/events.py", line 276, in dispatch
+    {
+  File "/home/elnor/vivacity/imports/email_multiple_helper.py", line 57, in on_created
+    send_email_with_attachment(event.src_path)
+  File "/home/elnor/vivacity/imports/email_multiple_helper.py", line 39, in send_email_with_attachment
+    server.login(EMAIL_SENDER, EMAIL_PASSWORD)
+  File "/usr/lib/python3.12/smtplib.py", line 750, in login
+    raise last_exception
+  File "/usr/lib/python3.12/smtplib.py", line 739, in login
+    (code, resp) = self.auth(
+                   ^^^^^^^^^^
+  File "/usr/lib/python3.12/smtplib.py", line 662, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-45b51589647sm27399615e9.2 - gsmtp')
+
+
+
+
+
+2025-08-22 10:37:54.472909+00:00 : email_multiple.py has been initiated.
+
+2025-08-22 10:37:54.472963+00:00 : Watching folder : /home/elnor/vivacity/ruby/reports for new PDFs...
+
+2025-08-22 10:38:40.486136+00:00 : Detected PDF: /home/elnor/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-22.pdf
+
+{datetime.now(timezone.utc)} : Observer already running. Exiting.
+
+
+
+
+
+
+2025-08-22 10:40:37.389294+00:00 : email_multiple.py has been initiated.
+
+2025-08-22 10:40:37.389338+00:00 : Watching folder : /home/elnor/vivacity/ruby/reports for new PDFs...
+
+2025-08-22 10:41:20.067658+00:00 : Detected PDF: /home/elnor/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-22.pdf
+
+2025-08-22 10:41:25.900850+00:00 : Email sent with attachment : /home/elnor/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-22.pdf
+
+
+
+
+
+{datetime.now(timezone.utc)} : Observer already running. Exiting.
+
+
+
+
+
+
+2025-08-22 12:45:50.302477+00:00 : email_multiple.py has been initiated.
+
+2025-08-22 12:45:50.302535+00:00 : Watching folder : /home/elnor/vivacity/ruby/reports for new PDFs...
+
+Traceback (most recent call last):
+  File "/mnt/c/Users/elnor/vivacity/email_multiple.py", line 35, in <module>
+    observer.start()
+  File "/usr/lib/python3/dist-packages/watchdog/observers/api.py", line 261, in start
+    emitter.start()
+  File "/usr/lib/python3/dist-packages/watchdog/utils/__init__.py", line 92, in start
+    self.on_thread_start()
+  File "/usr/lib/python3/dist-packages/watchdog/observers/inotify.py", line 119, in on_thread_start
+    self._inotify = InotifyBuffer(path, self.watch.is_recursive)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/watchdog/observers/inotify_buffer.py", line 37, in __init__
+    self._inotify = Inotify(path, recursive)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/watchdog/observers/inotify_c.py", line 181, in __init__
+    self._add_watch(path, event_mask)
+  File "/usr/lib/python3/dist-packages/watchdog/observers/inotify_c.py", line 416, in _add_watch
+    Inotify._raise_error()
+  File "/usr/lib/python3/dist-packages/watchdog/observers/inotify_c.py", line 432, in _raise_error
+    raise OSError(err, os.strerror(err))
+FileNotFoundError: [Errno 2] No such file or directory
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/mnt/c/Users/elnor/vivacity/email_multiple.py", line 44, in <module>
+    observer.join()
+  File "/usr/lib/python3.12/threading.py", line 1142, in join
+    raise RuntimeError("cannot join thread before it is started")
+RuntimeError: cannot join thread before it is started
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/mnt/c/Users/elnor/vivacity/email_multiple.py", line 56, in <module>
+    observer.join()
+  File "/usr/lib/python3.12/threading.py", line 1142, in join
+    raise RuntimeError("cannot join thread before it is started")
+RuntimeError: cannot join thread before it is started
+Traceback (most recent call last):
+  File "/home/elnor/vivacity/email_multiple.py", line 1, in <module>
+    from imports.email_multiple_helper import *
+  File "/home/elnor/vivacity/imports/email_multiple_helper.py", line 9, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+Traceback (most recent call last):
+  File "/home/elnor/vivacity/email_multiple.py", line 1, in <module>
+    from imports.email_multiple_helper import *
+  File "/home/elnor/vivacity/imports/email_multiple_helper.py", line 9, in <module>
+    from watchdog.observers import Observer
+ModuleNotFoundError: No module named 'watchdog'
+
+
+
+
+
+2025-08-25 09:06:21.649535+00:00 : email_multiple.py has been initiated.
+
+2025-08-25 09:06:21.649578+00:00 : Watching folder : /home/elnor/vivacity/ruby/reports for new PDFs...
+
+
+
+
+
+
+2025-08-25 09:12:56.960876+00:00 : email_multiple.py has been initiated.
+
+2025-08-25 09:12:56.960923+00:00 : Watching folder : /home/elnor/vivacity/ruby/reports for new PDFs...
+
+2025-08-25 09:13:43.989226+00:00 : Detected PDF: /home/elnor/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-25.pdf
+
+2025-08-25 09:13:49.651550+00:00 : Email sent with attachment : /home/elnor/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-25.pdf
+
+
+
+
+
+{datetime.now(timezone.utc)} : Observer already running. Exiting.
+
+
+
+
+
+
+2025-08-25 09:21:59.708865+00:00 : email_multiple.py has been initiated.
+
+2025-08-25 09:21:59.708905+00:00 : Watching folder : /home/elnor/vivacity/ruby/reports for new PDFs...
+
+2025-08-25 09:22:46.817421+00:00 : Detected PDF: /home/elnor/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-25.pdf
+
+2025-08-25 09:22:52.623829+00:00 : Email sent with attachment : /home/elnor/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-25.pdf
+
+
+
+
+
+{datetime.now(timezone.utc)} : Observer already running. Exiting.
+
+
+
+
+
+
+2025-08-25 10:03:47.301028+00:00 : email_multiple.py has been initiated.
+
+2025-08-25 10:03:47.301507+00:00 : Watching folder : /home/elnor/vivacity/ruby/reports for new PDFs...
+
+
+
+
+
+
+2025-08-25 10:05:27.269729+00:00 : email_multiple.py has been initiated.
+
+{datetime.now(timezone.utc)} : Observer already running. Exiting.
+
+
+
+
+
+
+2025-08-25 10:07:14.877801+00:00 : email_multiple.py has been initiated.
+
+2025-08-25 10:07:14.877845+00:00 : Watching folder : /home/elnor/vivacity/ruby/reports for new PDFs...
+
+2025-08-25 10:07:58.487370+00:00 : Detected PDF: /home/elnor/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-25.pdf
+
+2025-08-25 10:08:05.767668+00:00 : Email sent with attachment : /home/elnor/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-25.pdf
+
+
+
+
+
+{datetime.now(timezone.utc)} : Observer already running. Exiting.
+
+
+
+
+
+
+2025-08-25 10:39:40.845241+00:00 : email_multiple.py has been initiated.
+
+2025-08-25 10:39:40.845455+00:00 : Watching folder : /home/elnor/vivacity/ruby/reports for new PDFs...
+
+2025-08-25 10:40:25.081764+00:00 : Detected PDF: /home/elnor/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-25.pdf
+
+2025-08-25 10:40:31.230725+00:00 : Email sent with attachment : /home/elnor/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-25.pdf
+
+
+
+
+
+{datetime.now(timezone.utc)} : Observer already running. Exiting.
+
+
+
+
+
+
+2025-08-25 10:50:01.029088+00:00 : email_multiple.py has been initiated.
+
+2025-08-25 10:50:01.029455+00:00 : Watching folder : /home/elnor/vivacity/ruby/reports for new PDFs...
+
+2025-08-25 10:50:45.746772+00:00 : Detected PDF: /home/elnor/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-25.pdf
+
+2025-08-25 10:50:52.523610+00:00 : Email sent with attachment : /home/elnor/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-25.pdf
+
+
+
+
+
+{datetime.now(timezone.utc)} : Observer already running. Exiting.
+
+
+
+
+
+
+2025-08-25 11:01:01.775342+00:00 : email_multiple.py has been initiated.
+
+2025-08-25 11:01:01.775647+00:00 : Watching folder : /home/elnor/vivacity/ruby/reports for new PDFs...
+
+2025-08-25 11:01:44.754421+00:00 : Detected PDF: /home/elnor/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-25.pdf
+
+2025-08-25 11:01:50.652314+00:00 : Email sent with attachment : /home/elnor/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-25.pdf
+
+
+
+
+
+{datetime.now(timezone.utc)} : Observer already running. Exiting.
+
+
+
+
+
+
+2025-08-25 11:03:37.477851+00:00 : email_multiple.py has been initiated.
+
+2025-08-25 11:03:37.478043+00:00 : Watching folder : /home/elnor/vivacity/ruby/reports for new PDFs...
+
+2025-08-25 11:04:19.426868+00:00 : Detected PDF: /home/elnor/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-25.pdf
+
+2025-08-25 11:04:25.098597+00:00 : Email sent with attachment : /home/elnor/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-25.pdf
+
+
+
+
+
+{datetime.now(timezone.utc)} : Observer already running. Exiting.
+
+
+
+
+
+
+2025-08-25 11:05:53.893844+00:00 : email_multiple.py has been initiated.
+
+2025-08-25 11:05:53.894080+00:00 : Watching folder : /home/elnor/vivacity/ruby/reports for new PDFs...
+
+2025-08-25 11:06:38.356800+00:00 : Detected PDF: /home/elnor/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-25.pdf
+
+2025-08-25 11:06:44.140444+00:00 : Email sent with attachment : /home/elnor/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-25.pdf
+
+
+
+
+
+{datetime.now(timezone.utc)} : Observer already running. Exiting.
+
+
+
+
+
+
+2025-08-25 13:26:09.673584 : email_multiple.py has been initiated.
+
+2025-08-25 13:26:09.673623 : Watching folder : /home/elnor/vivacity/ruby/reports for new PDFs...
+
+2025-08-25 12:26:51.094579+00:00 : Detected PDF: /home/elnor/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-25.pdf
+
+2025-08-25 12:26:57.171441+00:00 : Email sent with attachment : /home/elnor/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-25.pdf
+
+
+
+
+
+2025-08-25 13:26:57.751729 : Observer already running. Exiting.
+
+
+
+
+
+
+2025-08-25 13:55:06.717772 : email_multiple.py has been initiated.
+
+2025-08-25 13:55:06.717815 : Watching folder : /home/elnor/vivacity/ruby/reports for new PDFs...
+
+2025-08-25 12:55:45.524836+00:00 : Detected PDF: /home/elnor/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-25.pdf
+
+2025-08-25 12:55:51.972352+00:00 : Email sent with attachment : /home/elnor/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-25.pdf
+
+
+
+
+
+2025-08-25 13:55:52.827809 : Observer already running. Exiting.
+
+
+
+
+
+
+2025-08-25 14:13:48.388707 : email_multiple.py has been initiated.
+
+2025-08-25 14:13:48.388946 : Watching folder : /home/elnor/vivacity/ruby/reports for new PDFs...
+
+2025-08-25 13:14:29.830632+00:00 : Detected PDF: /home/elnor/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-25_14-14-01.pdf
+
+2025-08-25 13:14:35.776259+00:00 : Email sent with attachment : /home/elnor/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-25_14-14-01.pdf
+
+
+
+
+
+2025-08-25 14:14:36.410425 : Observer already running. Exiting.
+
+
+
+
+
+
+2025-08-25 14:19:14.147586 : email_multiple.py has been initiated.
+
+2025-08-25 14:19:14.147636 : Watching folder : /home/elnor/vivacity/ruby/reports for new PDFs...
+
+2025-08-25 13:19:55.027505+00:00 : Detected PDF: /home/elnor/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-25_14-19-25.pdf
+
+2025-08-25 13:20:00.867530+00:00 : Email sent with attachment : /home/elnor/vivacity/ruby/reports/weekly_DCU_sensor_report_2025-08-25_14-19-25.pdf
+
+
+
+
+
+2025-08-25 14:20:01.260732 : Observer already running. Exiting.
+

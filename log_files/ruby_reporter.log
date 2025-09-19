@@ -1,0 +1,2221 @@
+
+
+
+
+
+2025-08-15-09-12-55-09-12-55 : ruby_retry.sh has been initiated.
+
+2025-08-15-09-12-55 : Attempt 1 of 5...
+
+I, [2025-08-15T09:12:57.441254 #72336]  INFO -- : Report started at 2025-08-15 
+09:12:57 +0000
+I, [2025-08-15T09:12:57.441797 #72336]  INFO -- : You are running 
+ruby-grafana-reporter version 0.9.4.
+I, [2025-08-15T09:13:43.033744 #72336]  INFO -- : Report creation ended after 
+46 seconds with status 'finished'
+Success!
+
+
+
+
+
+2025-08-15-09-17-17-09-17-17 : ruby_retry.sh has been initiated.
+
+2025-08-15-09-17-17 : Attempt 1 of 5...
+
+I, [2025-08-15T09:17:18.871198 #72990]  INFO -- : Report started at 2025-08-15 
+09:17:18 +0000
+I, [2025-08-15T09:17:18.871260 #72990]  INFO -- : You are running 
+ruby-grafana-reporter version 0.9.4.
+I, [2025-08-15T09:18:04.162321 #72990]  INFO -- : Report creation ended after 
+46 seconds with status 'finished'
+Success!
+
+
+
+
+
+2025-08-15-09-25-08-09-25-08 : ruby_retry.sh has been initiated.
+
+2025-08-15-09-25-08 : Attempt 1 of 5...
+
+I, [2025-08-15T09:25:09.700965 #73858]  INFO -- : Report started at 2025-08-15 
+09:25:09 +0000
+I, [2025-08-15T09:25:09.701046 #73858]  INFO -- : You are running 
+ruby-grafana-reporter version 0.9.4.
+I, [2025-08-15T09:25:55.249772 #73858]  INFO -- : Report creation ended after 
+46 seconds with status 'finished'
+Success!
+
+
+
+
+
+2025-08-15-09-33-38-09-33-38 : ruby_retry.sh has been initiated.
+
+2025-08-15-09-33-38 : Attempt 1 of 5...
+
+I, [2025-08-15T09:33:39.794180 #74721]  INFO -- : Report started at 2025-08-15 
+09:33:39 +0000
+I, [2025-08-15T09:33:39.794242 #74721]  INFO -- : You are running 
+ruby-grafana-reporter version 0.9.4.
+I, [2025-08-15T09:34:32.177106 #74721]  INFO -- : Report creation ended after 
+53 seconds with status 'finished'
+Success!
+
+
+
+
+
+2025-08-15-09-35-17-09-35-17 : ruby_retry.sh has been initiated.
+
+2025-08-15-09-35-17 : Attempt 1 of 5...
+
+I, [2025-08-15T09:35:19.711174 #75265]  INFO -- : Report started at 2025-08-15 
+09:35:19 +0000
+I, [2025-08-15T09:35:19.711257 #75265]  INFO -- : You are running 
+ruby-grafana-reporter version 0.9.4.
+I, [2025-08-15T09:36:09.300323 #75265]  INFO -- : Report creation ended after 
+50 seconds with status 'finished'
+Success!
+
+
+
+
+
+2025-08-15-09-50-42-09-50-42 : ruby_retry.sh has been initiated.
+
+2025-08-15-09-50-42 : Attempt 1 of 5...
+
+2025-08-15-09-50-42 : Email script PDF observer is offline, retrying...
+
+2025-08-15-09-50-43 : Email script PDF observer is offline, retrying...
+
+2025-08-15-09-50-44 : Email script PDF observer is offline, retrying...
+
+2025-08-15-09-50-45 : Email script PDF observer is offline, retrying...
+
+2025-08-15-09-50-46 : Email script PDF observer is offline, retrying...
+
+2025-08-15-09-50-47 : Email script PDF observer is offline, retrying...
+
+2025-08-15-09-50-48 : Email script PDF observer is offline, retrying...
+
+2025-08-15-09-50-49 : Email script PDF observer is offline, retrying...
+
+2025-08-15-09-50-50 : Email script PDF observer is offline, retrying...
+
+2025-08-15-09-50-51 : Email script PDF observer is offline, retrying...
+
+2025-08-15-09-50-52 : Email script PDF observer is offline, retrying...
+
+2025-08-15-09-50-53 : Email script PDF observer is offline, retrying...
+
+2025-08-15-09-50-54 : Email script PDF observer is offline, retrying...
+
+2025-08-15-09-50-55 : Email script PDF observer is offline, retrying...
+
+2025-08-15-09-50-56 : Email script PDF observer is offline, retrying...
+
+2025-08-15-09-50-57 : Email script PDF observer is offline, retrying...
+
+2025-08-15-09-50-58 : Email script PDF observer is offline, retrying...
+
+2025-08-15-09-50-59 : Email script PDF observer is offline, retrying...
+
+2025-08-15-09-51-00 : Email script PDF observer is offline, retrying...
+
+2025-08-15-09-51-01 : Email script PDF observer is offline, retrying...
+
+2025-08-15-09-51-02 : Email script PDF observer is still offline, aborting 
+script...
+
+
+
+
+
+
+2025-08-15-10-14-19-10-14-19 : ruby_retry.sh has been initiated.
+
+2025-08-15-10-14-19 : Attempt 1 of 5...
+
+I, [2025-08-15T10:14:21.225428 #77872]  INFO -- : Report started at 2025-08-15 
+10:14:21 +0000
+I, [2025-08-15T10:14:21.225490 #77872]  INFO -- : You are running 
+ruby-grafana-reporter version 0.9.4.
+I, [2025-08-15T10:17:46.127984 #77872]  INFO -- : Report creation ended after 
+205 seconds with status 'finished'
+Success!
+
+
+
+
+
+2025-08-15-10-22-53-10-22-53 : ruby_retry.sh has been initiated.
+
+2025-08-15-10-22-53 : Attempt 1 of 5...
+
+I, [2025-08-15T10:22:55.108191 #79572]  INFO -- : Report started at 2025-08-15 
+10:22:55 +0000
+I, [2025-08-15T10:22:55.108256 #79572]  INFO -- : You are running 
+ruby-grafana-reporter version 0.9.4.
+I, [2025-08-15T10:26:43.092341 #79572]  INFO -- : Report creation ended after 
+228 seconds with status 'finished'
+Success!
+
+
+
+
+
+2025-08-15-11-03-17-11-03-17 : ruby_retry.sh has been initiated.
+
+2025-08-15-11-03-17 : Attempt 1 of 5...
+
+I, [2025-08-15T11:03:19.001157 #83803]  INFO -- : Report started at 2025-08-15 
+11:03:19 +0000
+I, [2025-08-15T11:03:19.001692 #83803]  INFO -- : You are running 
+ruby-grafana-reporter version 0.9.4.
+E, [2025-08-15T11:09:06.983581 #83803] ERROR -- : GrafanaReporterError: The 
+datasource request to '' (Grafana::ImageRenderingDatasource) failed with an 
+internal error: Net::ReadTimeout with #<TCPSocket:(closed)>
+/usr/share/ruby3.2/net/protocol.rb:229:in `rbuf_fill'
+/usr/share/ruby3.2/net/protocol.rb:199:in `readuntil'
+/usr/share/ruby3.2/net/protocol.rb:209:in `readline'
+/usr/share/ruby3.2/net/http/response.rb:158:in `read_status_line'
+/usr/share/ruby3.2/net/http/response.rb:147:in `read_new'
+/usr/share/ruby3.2/net/http.rb:2342:in `block in transport_request'
+/usr/share/ruby3.2/net/http.rb:2333:in `catch'
+/usr/share/ruby3.2/net/http.rb:2333:in `transport_request'
+/usr/share/ruby3.2/net/http.rb:2306:in `request'
+/usr/share/ruby3.2/net/http.rb:2299:in `block in request'
+/usr/share/ruby3.2/net/http.rb:1570:in `start'
+/usr/share/ruby3.2/net/http.rb:2297:in `request'
+/home/ec2-user/.local/share/gem/ruby/gems/ruby-grafana-reporter-0.9.4/lib/grafan
+a/webrequest.rb:49:in `execute'
+/home/ec2-user/.local/share/gem/ruby/gems/ruby-grafana-reporter-0.9.4/lib/grafan
+a/image_rendering_datasource.rb:19:in `request'
+/home/ec2-user/.local/share/gem/ruby/gems/ruby-grafana-reporter-0.9.4/lib/grafan
+a_reporter/abstract_query.rb:82:in `execute'
+/home/ec2-user/.local/share/gem/ruby/gems/ruby-grafana-reporter-0.9.4/lib/grafan
+a_reporter/asciidoctor/panel_image_inline_macro.rb:52:in `process'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/sub
+stitutors.rb:333:in `[]'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/sub
+stitutors.rb:333:in `block (2 levels) in sub_macros'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/sub
+stitutors.rb:309:in `gsub'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/sub
+stitutors.rb:309:in `block in sub_macros'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/sub
+stitutors.rb:308:in `each'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/sub
+stitutors.rb:308:in `sub_macros'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/sub
+stitutors.rb:102:in `block in apply_subs'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/sub
+stitutors.rb:91:in `each'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/sub
+stitutors.rb:91:in `apply_subs'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/blo
+ck.rb:113:in `content'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-pdf-2.3.19/lib/asciidoctor
+/pdf/converter.rb:879:in `convert_paragraph'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-pdf-2.3.19/lib/asciidoctor
+/pdf/converter.rb:152:in `convert'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/abs
+tract_block.rb:76:in `convert'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/abs
+tract_block.rb:85:in `block in content'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/abs
+tract_block.rb:85:in `map'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/abs
+tract_block.rb:85:in `content'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-pdf-2.3.19/lib/asciidoctor
+/pdf/converter.rb:2407:in `traverse'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-pdf-2.3.19/lib/asciidoctor
+/pdf/converter.rb:691:in `convert_section'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-pdf-2.3.19/lib/asciidoctor
+/pdf/converter.rb:152:in `convert'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/abs
+tract_block.rb:76:in `convert'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/abs
+tract_block.rb:85:in `block in content'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/abs
+tract_block.rb:85:in `map'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/abs
+tract_block.rb:85:in `content'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/doc
+ument.rb:1012:in `content'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-pdf-2.3.19/lib/asciidoctor
+/pdf/converter.rb:2407:in `traverse'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-pdf-2.3.19/lib/asciidoctor
+/pdf/converter.rb:297:in `block in convert_document'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-pdf-2.3.19/lib/asciidoctor
+/pdf/converter.rb:625:in `indent_section'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-pdf-2.3.19/lib/asciidoctor
+/pdf/converter.rb:201:in `convert_document'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-pdf-2.3.19/lib/asciidoctor
+/pdf/converter.rb:152:in `convert'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/doc
+ument.rb:956:in `convert'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/con
+vert.rb:118:in `convert'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/con
+vert.rb:190:in `block in convert_file'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/con
+vert.rb:190:in `open'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/con
+vert.rb:190:in `convert_file'
+/home/ec2-user/.local/share/gem/ruby/gems/ruby-grafana-reporter-0.9.4/lib/grafan
+a_reporter/asciidoctor/report.rb:41:in `build'
+/home/ec2-user/.local/share/gem/ruby/gems/ruby-grafana-reporter-0.9.4/lib/grafan
+a_reporter/abstract_report.rb:150:in `create_report'
+/home/ec2-user/.local/share/gem/ruby/gems/ruby-grafana-reporter-0.9.4/lib/grafan
+a_reporter/application/application.rb:142:in `run'
+/home/ec2-user/.local/share/gem/ruby/gems/ruby-grafana-reporter-0.9.4/lib/grafan
+a_reporter/application/application.rb:111:in `configure_and_run'
+/home/ec2-user/.local/share/gem/ruby/gems/ruby-grafana-reporter-0.9.4/bin/ruby-g
+rafana-reporter:5:in `<top (required)>'
+ruby-grafana-reporter:25:in `load'
+ruby-grafana-reporter:25:in `<main>'
+E, [2025-08-15T11:09:07.095093 #83803] ERROR -- : failed to parse formatted 
+text: GrafanaReporterError: The datasource request to '' 
+(Grafana::ImageRenderingDatasource) failed with an internal error: 
+Net::ReadTimeout with #<TCPSocket:(closed)> 
+/usr/share/ruby3.2/net/protocol.rb:229:in `rbuf_fill' 
+/usr/share/ruby3.2/net/protocol.rb:199:in `readuntil' 
+/usr/share/ruby3.2/net/protocol.rb:209:in `readline' 
+/usr/share/ruby3.2/net/http/response.rb:158:in `read_status_line' 
+/usr/share/ruby3.2/net/http/response.rb:147:in `read_new' 
+/usr/share/ruby3.2/net/http.rb:2342:in `block in transport_request' 
+/usr/share/ruby3.2/net/http.rb:2333:in `catch' 
+/usr/share/ruby3.2/net/http.rb:2333:in `transport_request' 
+/usr/share/ruby3.2/net/http.rb:2306:in `request' 
+/usr/share/ruby3.2/net/http.rb:2299:in `block in request' 
+/usr/share/ruby3.2/net/http.rb:1570:in `start' 
+/usr/share/ruby3.2/net/http.rb:2297:in `request' 
+/home/ec2-user/.local/share/gem/ruby/gems/ruby-grafana-reporter-0.9.4/lib/grafan
+a/webrequest.rb:49:in `execute' 
+/home/ec2-user/.local/share/gem/ruby/gems/ruby-grafana-reporter-0.9.4/lib/grafan
+a/image_rendering_datasource.rb:19:in `request' 
+/home/ec2-user/.local/share/gem/ruby/gems/ruby-grafana-reporter-0.9.4/lib/grafan
+a_reporter/abstract_query.rb:82:in `execute' 
+/home/ec2-user/.local/share/gem/ruby/gems/ruby-grafana-reporter-0.9.4/lib/grafan
+a_reporter/asciidoctor/panel_image_inline_macro.rb:52:in `process' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/sub
+stitutors.rb:333:in `[]' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/sub
+stitutors.rb:333:in `block (2 levels) in sub_macros' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/sub
+stitutors.rb:309:in `gsub' 
+/home/ec2-user/.local/share/gem/ruby/gems/asci
+
+
+
+
+2025-08-15-11-45-28-11-45-28 : ruby_retry.sh has been initiated.
+
+2025-08-15-11-45-28 : Attempt 1 of 5...
+
+I, [2025-08-15T11:45:29.681457 #89537]  INFO -- : Report started at 2025-08-15 
+11:45:29 +0000
+I, [2025-08-15T11:45:29.681926 #89537]  INFO -- : You are running 
+ruby-grafana-reporter version 0.9.4.
+E, [2025-08-15T11:50:12.875822 #89537] ERROR -- : GrafanaReporterError: The 
+datasource request to '' (Grafana::ImageRenderingDatasource) failed with an 
+internal error: Net::ReadTimeout with #<TCPSocket:(closed)>
+/usr/share/ruby3.2/net/protocol.rb:229:in `rbuf_fill'
+/usr/share/ruby3.2/net/protocol.rb:199:in `readuntil'
+/usr/share/ruby3.2/net/protocol.rb:209:in `readline'
+/usr/share/ruby3.2/net/http/response.rb:158:in `read_status_line'
+/usr/share/ruby3.2/net/http/response.rb:147:in `read_new'
+/usr/share/ruby3.2/net/http.rb:2342:in `block in transport_request'
+/usr/share/ruby3.2/net/http.rb:2333:in `catch'
+/usr/share/ruby3.2/net/http.rb:2333:in `transport_request'
+/usr/share/ruby3.2/net/http.rb:2306:in `request'
+/usr/share/ruby3.2/net/http.rb:2299:in `block in request'
+/usr/share/ruby3.2/net/http.rb:1570:in `start'
+/usr/share/ruby3.2/net/http.rb:2297:in `request'
+/home/ec2-user/.local/share/gem/ruby/gems/ruby-grafana-reporter-0.9.4/lib/grafan
+a/webrequest.rb:49:in `execute'
+/home/ec2-user/.local/share/gem/ruby/gems/ruby-grafana-reporter-0.9.4/lib/grafan
+a/image_rendering_datasource.rb:19:in `request'
+/home/ec2-user/.local/share/gem/ruby/gems/ruby-grafana-reporter-0.9.4/lib/grafan
+a_reporter/abstract_query.rb:82:in `execute'
+/home/ec2-user/.local/share/gem/ruby/gems/ruby-grafana-reporter-0.9.4/lib/grafan
+a_reporter/asciidoctor/panel_image_inline_macro.rb:52:in `process'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/sub
+stitutors.rb:333:in `[]'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/sub
+stitutors.rb:333:in `block (2 levels) in sub_macros'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/sub
+stitutors.rb:309:in `gsub'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/sub
+stitutors.rb:309:in `block in sub_macros'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/sub
+stitutors.rb:308:in `each'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/sub
+stitutors.rb:308:in `sub_macros'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/sub
+stitutors.rb:102:in `block in apply_subs'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/sub
+stitutors.rb:91:in `each'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/sub
+stitutors.rb:91:in `apply_subs'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/blo
+ck.rb:113:in `content'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-pdf-2.3.19/lib/asciidoctor
+/pdf/converter.rb:879:in `convert_paragraph'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-pdf-2.3.19/lib/asciidoctor
+/pdf/converter.rb:152:in `convert'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/abs
+tract_block.rb:76:in `convert'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/abs
+tract_block.rb:85:in `block in content'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/abs
+tract_block.rb:85:in `map'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/abs
+tract_block.rb:85:in `content'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-pdf-2.3.19/lib/asciidoctor
+/pdf/converter.rb:2407:in `traverse'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-pdf-2.3.19/lib/asciidoctor
+/pdf/converter.rb:691:in `convert_section'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-pdf-2.3.19/lib/asciidoctor
+/pdf/converter.rb:152:in `convert'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/abs
+tract_block.rb:76:in `convert'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/abs
+tract_block.rb:85:in `block in content'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/abs
+tract_block.rb:85:in `map'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/abs
+tract_block.rb:85:in `content'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/doc
+ument.rb:1012:in `content'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-pdf-2.3.19/lib/asciidoctor
+/pdf/converter.rb:2407:in `traverse'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-pdf-2.3.19/lib/asciidoctor
+/pdf/converter.rb:297:in `block in convert_document'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-pdf-2.3.19/lib/asciidoctor
+/pdf/converter.rb:625:in `indent_section'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-pdf-2.3.19/lib/asciidoctor
+/pdf/converter.rb:201:in `convert_document'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-pdf-2.3.19/lib/asciidoctor
+/pdf/converter.rb:152:in `convert'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/doc
+ument.rb:956:in `convert'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/con
+vert.rb:118:in `convert'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/con
+vert.rb:190:in `block in convert_file'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/con
+vert.rb:190:in `open'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/con
+vert.rb:190:in `convert_file'
+/home/ec2-user/.local/share/gem/ruby/gems/ruby-grafana-reporter-0.9.4/lib/grafan
+a_reporter/asciidoctor/report.rb:41:in `build'
+/home/ec2-user/.local/share/gem/ruby/gems/ruby-grafana-reporter-0.9.4/lib/grafan
+a_reporter/abstract_report.rb:150:in `create_report'
+/home/ec2-user/.local/share/gem/ruby/gems/ruby-grafana-reporter-0.9.4/lib/grafan
+a_reporter/application/application.rb:142:in `run'
+/home/ec2-user/.local/share/gem/ruby/gems/ruby-grafana-reporter-0.9.4/lib/grafan
+a_reporter/application/application.rb:111:in `configure_and_run'
+/home/ec2-user/.local/share/gem/ruby/gems/ruby-grafana-reporter-0.9.4/bin/ruby-g
+rafana-reporter:5:in `<top (required)>'
+ruby-grafana-reporter:25:in `load'
+ruby-grafana-reporter:25:in `<main>'
+E, [2025-08-15T11:50:12.943232 #89537] ERROR -- : failed to parse formatted 
+text: GrafanaReporterError: The datasource request to '' 
+(Grafana::ImageRenderingDatasource) failed with an internal error: 
+Net::ReadTimeout with #<TCPSocket:(closed)> 
+/usr/share/ruby3.2/net/protocol.rb:229:in `rbuf_fill' 
+/usr/share/ruby3.2/net/protocol.rb:199:in `readuntil' 
+/usr/share/ruby3.2/net/protocol.rb:209:in `readline' 
+/usr/share/ruby3.2/net/http/response.rb:158:in `read_status_line' 
+/usr/share/ruby3.2/net/http/response.rb:147:in `read_new' 
+/usr/share/ruby3.2/net/http.rb:2342:in `block in transport_request' 
+/usr/share/ruby3.2/net/http.rb:2333:in `catch' 
+/usr/share/ruby3.2/net/http.rb:2333:in `transport_request' 
+/usr/share/ruby3.2/net/http.rb:2306:in `request' 
+/usr/share/ruby3.2/net/http.rb:2299:in `block in request' 
+/usr/share/ruby3.2/net/http.rb:1570:in `start' 
+/usr/share/ruby3.2/net/http.rb:2297:in `request' 
+/home/ec2-user/.local/share/gem/ruby/gems/ruby-grafana-reporter-0.9.4/lib/grafan
+a/webrequest.rb:49:in `execute' 
+/home/ec2-user/.local/share/gem/ruby/gems/ruby-grafana-reporter-0.9.4/lib/grafan
+a/image_rendering_datasource.rb:19:in `request' 
+/home/ec2-user/.local/share/gem/ruby/gems/ruby-grafana-reporter-0.9.4/lib/grafan
+a_reporter/abstract_query.rb:82:in `execute' 
+/home/ec2-user/.local/share/gem/ruby/gems/ruby-grafana-reporter-0.9.4/lib/grafan
+a_reporter/asciidoctor/panel_image_inline_macro.rb:52:in `process' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/sub
+stitutors.rb:333:in `[]' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/sub
+stitutors.rb:333:in `block (2 levels) in sub_macros' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/sub
+stitutors.rb:309:in `gsub' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/sub
+stitutors.rb:309:in `block in sub_macros' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/sub
+stitutors.rb:308:in `each' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/sub
+stitutors.rb:308:in `sub_macros' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/sub
+stitutors.rb:102:in `block in apply_subs' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/sub
+stitutors.rb:91:in `each' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/sub
+stitutors.rb:91:in `apply_subs' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/blo
+ck.rb:113:in `content' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-pdf-2.3.19/lib/asciidoctor
+/pdf/converter.rb:879:in `convert_paragraph' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-pdf-2.3.19/lib/asciidoctor
+/pdf/converter.rb:152:in `convert' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/abs
+tract_block.rb:76:in `convert' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/abs
+tract_block.rb:85:in `block in content' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/abs
+tract_block.rb:85:in `map' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/abs
+tract_block.rb:85:in `content' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-pdf-2.3.19/lib/asciidoctor
+/pdf/converter.rb:2407:in `traverse' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-pdf-2.3.19/lib/asciidoctor
+/pdf/converter.rb:691:in `convert_section' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-pdf-2.3.19/lib/asciidoctor
+/pdf/converter.rb:152:in `convert' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/abs
+tract_block.rb:76:in `convert' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/abs
+tract_block.rb:85:in `block in content' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/abs
+tract_block.rb:85:in `map' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/abs
+tract_block.rb:85:in `content' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/doc
+ument.rb:1012:in `content' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-pdf-2.3.19/lib/asciidoctor
+/pdf/converter.rb:2407:in `traverse' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-pdf-2.3.19/lib/asciidoctor
+/pdf/converter.rb:297:in `block in convert_document' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-pdf-2.3.19/lib/asciidoctor
+/pdf/converter.rb:625:in `indent_section' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-pdf-2.3.19/lib/asciidoctor
+/pdf/converter.rb:201:in `convert_document' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-pdf-2.3.19/lib/asciidoctor
+/pdf/converter.rb:152:in `convert' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/doc
+ument.rb:956:in `convert' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/con
+vert.rb:118:in `convert' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/con
+vert.rb:190:in `block in convert_file' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/con
+vert.rb:190:in `open' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/con
+vert.rb:190:in `convert_file' 
+/home/ec2-user/.local/share/gem/ruby/gems/ruby-grafana-reporter-0.9.4/lib/grafan
+a_reporter/asciidoctor/report.rb:41:in `build' 
+/home/ec2-user/.local/share/gem/ruby/gems/ruby-grafana-reporter-0.9.4/lib/grafan
+a_reporter/abstract_report.rb:150:in `create_report' 
+/home/ec2-user/.local/share/gem/ruby/gems/ruby-grafana-reporter-0.9.4/lib/grafan
+a_reporter/application/application.rb:142:in `run' 
+/home/ec2-user/.local/share/gem/ruby/gems/ruby-grafana-reporter-0.9.4/lib/grafan
+a_reporter/application/application.rb:111:in `configure_and_run' 
+/home/ec2-user/.local/share/gem/ruby/gems/ruby-grafana-reporter-0.9.4/bin/ruby-g
+rafana-reporter:5:in `<top (required)>' ruby-grafana-reporter:25:in `load' 
+ruby-grafana-reporter:25:in `<main>' (reason: Expected one of 'br', 'img', 'a', 
+'strong', 'em', 'code', 'font', 'span', 'button', 'kbd', 'sup', 'sub', 'mark', 
+'menu', 'del' after < at byte 143)
+E, [2025-08-15T11:51:11.422826 #89537] ERROR -- : GrafanaError: The specified 
+panel '4' from dashboard 'e32b8e88-5254-420c-8f78-4b0bd2df1f53' could not be 
+rendered to an image. Check if rendering is possible manually by selecting 
+"Share" and then "Direct link rendered image" from a panel's options menu. 
+(Grafana::ImageCouldNotBeRenderedError)
+I, [2025-08-15T11:54:24.560875 #89537]  INFO -- : Report creation ended after 
+535 seconds with status 'finished'
+Success!
+
+
+
+
+
+2025-08-15-12-55-06-12-55-06 : ruby_retry.sh has been initiated.
+
+2025-08-15-12-55-06 : Attempt 1 of 5...
+
+I, [2025-08-15T12:55:08.089926 #94073]  INFO -- : Report started at 2025-08-15 
+12:55:08 +0000
+I, [2025-08-15T12:55:08.089998 #94073]  INFO -- : You are running 
+ruby-grafana-reporter version 0.9.4.
+E, [2025-08-15T13:03:04.122229 #94073] ERROR -- : GrafanaReporterError: The 
+datasource request to '' (Grafana::ImageRenderingDatasource) failed with an 
+internal error: Net::ReadTimeout with #<TCPSocket:(closed)>
+/usr/share/ruby3.2/net/protocol.rb:229:in `rbuf_fill'
+/usr/share/ruby3.2/net/protocol.rb:199:in `readuntil'
+/usr/share/ruby3.2/net/protocol.rb:209:in `readline'
+/usr/share/ruby3.2/net/http/response.rb:158:in `read_status_line'
+/usr/share/ruby3.2/net/http/response.rb:147:in `read_new'
+/usr/share/ruby3.2/net/http.rb:2342:in `block in transport_request'
+/usr/share/ruby3.2/net/http.rb:2333:in `catch'
+/usr/share/ruby3.2/net/http.rb:2333:in `transport_request'
+/usr/share/ruby3.2/net/http.rb:2306:in `request'
+/usr/share/ruby3.2/net/http.rb:2299:in `block in request'
+/usr/share/ruby3.2/net/http.rb:1570:in `start'
+/usr/share/ruby3.2/net/http.rb:2297:in `request'
+/home/ec2-user/.local/share/gem/ruby/gems/ruby-grafana-reporter-0.9.4/lib/grafan
+a/webrequest.rb:49:in `execute'
+/home/ec2-user/.local/share/gem/ruby/gems/ruby-grafana-reporter-0.9.4/lib/grafan
+a/image_rendering_datasource.rb:19:in `request'
+/home/ec2-user/.local/share/gem/ruby/gems/ruby-grafana-reporter-0.9.4/lib/grafan
+a_reporter/abstract_query.rb:82:in `execute'
+/home/ec2-user/.local/share/gem/ruby/gems/ruby-grafana-reporter-0.9.4/lib/grafan
+a_reporter/asciidoctor/panel_image_inline_macro.rb:52:in `process'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/sub
+stitutors.rb:333:in `[]'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/sub
+stitutors.rb:333:in `block (2 levels) in sub_macros'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/sub
+stitutors.rb:309:in `gsub'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/sub
+stitutors.rb:309:in `block in sub_macros'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/sub
+stitutors.rb:308:in `each'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/sub
+stitutors.rb:308:in `sub_macros'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/sub
+stitutors.rb:102:in `block in apply_subs'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/sub
+stitutors.rb:91:in `each'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/sub
+stitutors.rb:91:in `apply_subs'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/blo
+ck.rb:113:in `content'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-pdf-2.3.19/lib/asciidoctor
+/pdf/converter.rb:879:in `convert_paragraph'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-pdf-2.3.19/lib/asciidoctor
+/pdf/converter.rb:152:in `convert'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/abs
+tract_block.rb:76:in `convert'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/abs
+tract_block.rb:85:in `block in content'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/abs
+tract_block.rb:85:in `map'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/abs
+tract_block.rb:85:in `content'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-pdf-2.3.19/lib/asciidoctor
+/pdf/converter.rb:2407:in `traverse'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-pdf-2.3.19/lib/asciidoctor
+/pdf/converter.rb:691:in `convert_section'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-pdf-2.3.19/lib/asciidoctor
+/pdf/converter.rb:152:in `convert'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/abs
+tract_block.rb:76:in `convert'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/abs
+tract_block.rb:85:in `block in content'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/abs
+tract_block.rb:85:in `map'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/abs
+tract_block.rb:85:in `content'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/doc
+ument.rb:1012:in `content'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-pdf-2.3.19/lib/asciidoctor
+/pdf/converter.rb:2407:in `traverse'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-pdf-2.3.19/lib/asciidoctor
+/pdf/converter.rb:297:in `block in convert_document'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-pdf-2.3.19/lib/asciidoctor
+/pdf/converter.rb:625:in `indent_section'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-pdf-2.3.19/lib/asciidoctor
+/pdf/converter.rb:201:in `convert_document'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-pdf-2.3.19/lib/asciidoctor
+/pdf/converter.rb:152:in `convert'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/doc
+ument.rb:956:in `convert'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/con
+vert.rb:118:in `convert'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/con
+vert.rb:190:in `block in convert_file'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/con
+vert.rb:190:in `open'
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/con
+vert.rb:190:in `convert_file'
+/home/ec2-user/.local/share/gem/ruby/gems/ruby-grafana-reporter-0.9.4/lib/grafan
+a_reporter/asciidoctor/report.rb:41:in `build'
+/home/ec2-user/.local/share/gem/ruby/gems/ruby-grafana-reporter-0.9.4/lib/grafan
+a_reporter/abstract_report.rb:150:in `create_report'
+/home/ec2-user/.local/share/gem/ruby/gems/ruby-grafana-reporter-0.9.4/lib/grafan
+a_reporter/application/application.rb:142:in `run'
+/home/ec2-user/.local/share/gem/ruby/gems/ruby-grafana-reporter-0.9.4/lib/grafan
+a_reporter/application/application.rb:111:in `configure_and_run'
+/home/ec2-user/.local/share/gem/ruby/gems/ruby-grafana-reporter-0.9.4/bin/ruby-g
+rafana-reporter:5:in `<top (required)>'
+ruby-grafana-reporter:25:in `load'
+ruby-grafana-reporter:25:in `<main>'
+E, [2025-08-15T13:03:04.297323 #94073] ERROR -- : failed to parse formatted 
+text: GrafanaReporterError: The datasource request to '' 
+(Grafana::ImageRenderingDatasource) failed with an internal error: 
+Net::ReadTimeout with #<TCPSocket:(closed)> 
+/usr/share/ruby3.2/net/protocol.rb:229:in `rbuf_fill' 
+/usr/share/ruby3.2/net/protocol.rb:199:in `readuntil' 
+/usr/share/ruby3.2/net/protocol.rb:209:in `readline' 
+/usr/share/ruby3.2/net/http/response.rb:158:in `read_status_line' 
+/usr/share/ruby3.2/net/http/response.rb:147:in `read_new' 
+/usr/share/ruby3.2/net/http.rb:2342:in `block in transport_request' 
+/usr/share/ruby3.2/net/http.rb:2333:in `catch' 
+/usr/share/ruby3.2/net/http.rb:2333:in `transport_request' 
+/usr/share/ruby3.2/net/http.rb:2306:in `request' 
+/usr/share/ruby3.2/net/http.rb:2299:in `block in request' 
+/usr/share/ruby3.2/net/http.rb:1570:in `start' 
+/usr/share/ruby3.2/net/http.rb:2297:in `request' 
+/home/ec2-user/.local/share/gem/ruby/gems/ruby-grafana-reporter-0.9.4/lib/grafan
+a/webrequest.rb:49:in `execute' 
+/home/ec2-user/.local/share/gem/ruby/gems/ruby-grafana-reporter-0.9.4/lib/grafan
+a/image_rendering_datasource.rb:19:in `request' 
+/home/ec2-user/.local/share/gem/ruby/gems/ruby-grafana-reporter-0.9.4/lib/grafan
+a_reporter/abstract_query.rb:82:in `execute' 
+/home/ec2-user/.local/share/gem/ruby/gems/ruby-grafana-reporter-0.9.4/lib/grafan
+a_reporter/asciidoctor/panel_image_inline_macro.rb:52:in `process' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/sub
+stitutors.rb:333:in `[]' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/sub
+stitutors.rb:333:in `block (2 levels) in sub_macros' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/sub
+stitutors.rb:309:in `gsub' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/sub
+stitutors.rb:309:in `block in sub_macros' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/sub
+stitutors.rb:308:in `each' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/sub
+stitutors.rb:308:in `sub_macros' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/sub
+stitutors.rb:102:in `block in apply_subs' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/sub
+stitutors.rb:91:in `each' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/sub
+stitutors.rb:91:in `apply_subs' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/blo
+ck.rb:113:in `content' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-pdf-2.3.19/lib/asciidoctor
+/pdf/converter.rb:879:in `convert_paragraph' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-pdf-2.3.19/lib/asciidoctor
+/pdf/converter.rb:152:in `convert' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/abs
+tract_block.rb:76:in `convert' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/abs
+tract_block.rb:85:in `block in content' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/abs
+tract_block.rb:85:in `map' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/abs
+tract_block.rb:85:in `content' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-pdf-2.3.19/lib/asciidoctor
+/pdf/converter.rb:2407:in `traverse' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-pdf-2.3.19/lib/asciidoctor
+/pdf/converter.rb:691:in `convert_section' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-pdf-2.3.19/lib/asciidoctor
+/pdf/converter.rb:152:in `convert' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/abs
+tract_block.rb:76:in `convert' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/abs
+tract_block.rb:85:in `block in content' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/abs
+tract_block.rb:85:in `map' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/abs
+tract_block.rb:85:in `content' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/doc
+ument.rb:1012:in `content' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-pdf-2.3.19/lib/asciidoctor
+/pdf/converter.rb:2407:in `traverse' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-pdf-2.3.19/lib/asciidoctor
+/pdf/converter.rb:297:in `block in convert_document' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-pdf-2.3.19/lib/asciidoctor
+/pdf/converter.rb:625:in `indent_section' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-pdf-2.3.19/lib/asciidoctor
+/pdf/converter.rb:201:in `convert_document' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-pdf-2.3.19/lib/asciidoctor
+/pdf/converter.rb:152:in `convert' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/doc
+ument.rb:956:in `convert' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/con
+vert.rb:118:in `convert' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/con
+vert.rb:190:in `block in convert_file' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/con
+vert.rb:190:in `open' 
+/home/ec2-user/.local/share/gem/ruby/gems/asciidoctor-2.0.23/lib/asciidoctor/con
+vert.rb:190:in `convert_file' 
+/home/ec2-user/.local/share/gem/ruby/gems/ruby-grafana-reporter-0.9.4/lib/grafan
+a_reporter/asciidoctor/report.rb:41:in `build' 
+/home/ec2-user/.local/share/gem/ruby/gems/ruby-grafana-reporter-0.9.4/lib/grafan
+a_reporter/abstract_report.rb:150:in `create_report' 
+/home/ec2-user/.local/share/gem/ruby/gems/ruby-grafana-reporter-0.9.4/lib/grafan
+a_reporter/application/application.rb:142:in `run' 
+/home/ec2-user/.local/share/gem/ruby/gems/ruby-grafana-reporter-0.9.4/lib/grafan
+a_reporter/application/application.rb:111:in `configure_and_run' 
+/home/ec2-user/.local/share/gem/ruby/gems/ruby-grafana-reporter-0.9.4/bin/ruby-g
+rafana-reporter:5:in `<top (required)>' ruby-grafana-reporter:25:in `load' 
+ruby-grafana-reporter:25:in `<main>' (reason: Expected one of 'br', 'img', 'a', 
+'strong', 'em', 'code', 'font', 'span', 'button', 'kbd', 'sup', 'sub', 'mark', 
+'menu', 'del' after < at byte 143)
+I, [2025-08-15T13:05:31.722558 #94073]  INFO -- : Report creation ended after 
+623 seconds with status 'finished'
+Success!
+
+
+
+
+
+2025-08-15-13-07-52-13-07-52 : ruby_retry.sh has been initiated.
+
+2025-08-15-13-07-52 : Attempt 1 of 5...
+
+I, [2025-08-15T13:07:53.849588 #96159]  INFO -- : Report started at 2025-08-15 
+13:07:53 +0000
+I, [2025-08-15T13:07:53.849658 #96159]  INFO -- : You are running 
+ruby-grafana-reporter version 0.9.4.
+I, [2025-08-15T13:09:33.383190 #96159]  INFO -- : Report creation ended after 
+100 seconds with status 'finished'
+Success!
+
+
+
+
+
+2025-08-15-13-13-50-13-13-50 : ruby_retry.sh has been initiated.
+
+2025-08-15-13-13-50 : Attempt 1 of 5...
+
+I, [2025-08-15T13:13:52.462327 #97142]  INFO -- : Report started at 2025-08-15 
+13:13:52 +0000
+I, [2025-08-15T13:13:52.462389 #97142]  INFO -- : You are running 
+ruby-grafana-reporter version 0.9.4.
+I, [2025-08-15T13:14:58.018867 #97142]  INFO -- : Report creation ended after 
+66 seconds with status 'finished'
+Success!
+
+
+
+
+
+2025-08-15-13-16-19-13-16-19 : ruby_retry.sh has been initiated.
+
+2025-08-15-13-16-19 : Attempt 1 of 5...
+
+I, [2025-08-15T13:16:21.058262 #97704]  INFO -- : Report started at 2025-08-15 
+13:16:21 +0000
+I, [2025-08-15T13:16:21.058331 #97704]  INFO -- : You are running 
+ruby-grafana-reporter version 0.9.4.
+I, [2025-08-15T13:19:27.982035 #97704]  INFO -- : Report creation ended after 
+186 seconds with status 'finished'
+Success!
+
+
+
+
+
+2025-08-15-13-21-21-13-21-21 : ruby_retry.sh has been initiated.
+
+2025-08-15-13-21-21 : Attempt 1 of 5...
+
+I, [2025-08-15T13:21:23.069147 #98800]  INFO -- : Report started at 2025-08-15 
+13:21:23 +0000
+I, [2025-08-15T13:21:23.069210 #98800]  INFO -- : You are running 
+ruby-grafana-reporter version 0.9.4.
+I, [2025-08-15T13:26:59.382530 #98800]  INFO -- : Report creation ended after 
+336 seconds with status 'finished'
+Success!
+
+
+
+
+
+2025-08-15-13-30-15-13-30-15 : ruby_retry.sh has been initiated.
+
+2025-08-15-13-30-15 : Attempt 1 of 5...
+
+I, [2025-08-15T13:30:17.010514 #100462]  INFO -- : Report started at 2025-08-15 
+13:30:17 +0000
+I, [2025-08-15T13:30:17.011022 #100462]  INFO -- : You are running 
+ruby-grafana-reporter version 0.9.4.
+I, [2025-08-15T13:35:31.542883 #100462]  INFO -- : Report creation ended after 
+314 seconds with status 'finished'
+Success!
+
+
+
+
+
+2025-08-15-14-00-09-14-00-09 : ruby_retry.sh has been initiated.
+
+2025-08-15-14-00-09 : Attempt 1 of 5...
+
+I, [2025-08-15T14:00:10.755878 #103165]  INFO -- : Report started at 2025-08-15 
+14:00:10 +0000
+I, [2025-08-15T14:00:10.755938 #103165]  INFO -- : You are running 
+ruby-grafana-reporter version 0.9.4.
+I, [2025-08-15T14:04:10.278731 #103165]  INFO -- : Report creation ended after 
+240 seconds with status 'finished'
+Success!
+
+
+
+
+
+2025-08-18-15-28-57-15-28-57 : ruby_retry.sh has been initiated.
+
+2025-08-18-15-28-57 : Attempt 1 of 5...
+
+I, [2025-08-18T15:28:58.762066 #294437]  INFO -- : Report started at 2025-08-18 
+15:28:58 +0000
+I, [2025-08-18T15:28:58.762523 #294437]  INFO -- : You are running 
+ruby-grafana-reporter version 0.9.4.
+I, [2025-08-18T15:32:00.643911 #294437]  INFO -- : Report creation ended after 
+182 seconds with status 'finished'
+Success!
+
+
+
+
+
+2025-08-18-17-35-30-17-35-30 : ruby_retry.sh has been initiated.
+
+2025-08-18-17-35-30 : Attempt 1 of 5...
+
+I, [2025-08-18T17:35:32.193033 #301386]  INFO -- : Report started at 2025-08-18 
+17:35:32 +0000
+I, [2025-08-18T17:35:32.193520 #301386]  INFO -- : You are running 
+ruby-grafana-reporter version 0.9.4.
+I, [2025-08-18T17:40:43.738258 #301386]  INFO -- : Report creation ended after 
+311 seconds with status 'finished'
+Success!
+
+
+
+
+
+2025-08-19-10-54-15-10-54-15 : ruby_retry.sh has been initiated.
+
+2025-08-19-10-54-15 : Attempt 1 of 5...
+
+2025-08-19-10-54-15 : Email script PDF observer is offline, retrying...
+
+2025-08-19-10-54-17 : Email script PDF observer is offline, retrying...
+
+2025-08-19-10-54-18 : Email script PDF observer is offline, retrying...
+
+2025-08-19-10-54-19 : Email script PDF observer is offline, retrying...
+
+2025-08-19-10-54-20 : Email script PDF observer is offline, retrying...
+
+2025-08-19-10-54-21 : Email script PDF observer is offline, retrying...
+
+2025-08-19-10-54-22 : Email script PDF observer is offline, retrying...
+
+2025-08-19-10-54-23 : Email script PDF observer is offline, retrying...
+
+2025-08-19-10-54-24 : Email script PDF observer is offline, retrying...
+
+2025-08-19-10-54-25 : Email script PDF observer is offline, retrying...
+
+2025-08-19-10-54-26 : Email script PDF observer is offline, retrying...
+
+2025-08-19-10-54-27 : Email script PDF observer is offline, retrying...
+
+2025-08-19-10-54-28 : Email script PDF observer is offline, retrying...
+
+2025-08-19-10-54-29 : Email script PDF observer is offline, retrying...
+
+2025-08-19-10-54-30 : Email script PDF observer is offline, retrying...
+
+2025-08-19-10-54-31 : Email script PDF observer is offline, retrying...
+
+2025-08-19-10-54-32 : Email script PDF observer is offline, retrying...
+
+2025-08-19-10-54-33 : Email script PDF observer is offline, retrying...
+
+2025-08-19-10-54-34 : Email script PDF observer is offline, retrying...
+
+2025-08-19-10-54-35 : Email script PDF observer is offline, retrying...
+
+2025-08-19-10-54-36 : Email script PDF observer is still offline, aborting 
+script...
+
+
+
+
+
+
+2025-08-19-10-59-00-10-59-00 : ruby_retry.sh has been initiated.
+
+2025-08-19-10-59-00 : Attempt 1 of 5...
+
+2025-08-19-10-59-00 : Email script PDF observer is offline, retrying...
+
+2025-08-19-10-59-01 : Email script PDF observer is offline, retrying...
+
+2025-08-19-10-59-02 : Email script PDF observer is offline, retrying...
+
+2025-08-19-10-59-03 : Email script PDF observer is offline, retrying...
+
+2025-08-19-10-59-04 : Email script PDF observer is offline, retrying...
+
+2025-08-19-10-59-05 : Email script PDF observer is offline, retrying...
+
+2025-08-19-10-59-06 : Email script PDF observer is offline, retrying...
+
+2025-08-19-10-59-07 : Email script PDF observer is offline, retrying...
+
+2025-08-19-10-59-08 : Email script PDF observer is offline, retrying...
+
+2025-08-19-10-59-09 : Email script PDF observer is offline, retrying...
+
+2025-08-19-10-59-10 : Email script PDF observer is offline, retrying...
+
+2025-08-19-10-59-11 : Email script PDF observer is offline, retrying...
+
+2025-08-19-10-59-12 : Email script PDF observer is offline, retrying...
+
+2025-08-19-10-59-13 : Email script PDF observer is offline, retrying...
+
+2025-08-19-10-59-14 : Email script PDF observer is offline, retrying...
+
+2025-08-19-10-59-15 : Email script PDF observer is offline, retrying...
+
+2025-08-19-10-59-16 : Email script PDF observer is offline, retrying...
+
+2025-08-19-10-59-17 : Email script PDF observer is offline, retrying...
+
+2025-08-19-10-59-18 : Email script PDF observer is offline, retrying...
+
+2025-08-19-10-59-19 : Email script PDF observer is offline, retrying...
+
+2025-08-19-10-59-20 : Email script PDF observer is still offline, aborting 
+script...
+
+
+
+
+
+
+2025-08-19-11-04-18-11-04-18 : ruby_retry.sh has been initiated.
+
+2025-08-19-11-04-18 : Attempt 1 of 5...
+
+2025-08-19-11-04-18 : Email script PDF observer is offline, retrying...
+
+2025-08-19-11-04-19 : Email script PDF observer is offline, retrying...
+
+2025-08-19-11-04-20 : Email script PDF observer is offline, retrying...
+
+2025-08-19-11-04-21 : Email script PDF observer is offline, retrying...
+
+2025-08-19-11-04-22 : Email script PDF observer is offline, retrying...
+
+2025-08-19-11-04-23 : Email script PDF observer is offline, retrying...
+
+2025-08-19-11-04-24 : Email script PDF observer is offline, retrying...
+
+2025-08-19-11-04-25 : Email script PDF observer is offline, retrying...
+
+2025-08-19-11-04-26 : Email script PDF observer is offline, retrying...
+
+2025-08-19-11-04-27 : Email script PDF observer is offline, retrying...
+
+2025-08-19-11-04-28 : Email script PDF observer is offline, retrying...
+
+2025-08-19-11-04-29 : Email script PDF observer is offline, retrying...
+
+2025-08-19-11-04-30 : Email script PDF observer is offline, retrying...
+
+2025-08-19-11-04-31 : Email script PDF observer is offline, retrying...
+
+2025-08-19-11-04-32 : Email script PDF observer is offline, retrying...
+
+2025-08-19-11-04-33 : Email script PDF observer is offline, retrying...
+
+2025-08-19-11-04-34 : Email script PDF observer is offline, retrying...
+
+2025-08-19-11-04-35 : Email script PDF observer is offline, retrying...
+
+2025-08-19-11-04-36 : Email script PDF observer is offline, retrying...
+
+2025-08-19-11-04-37 : Email script PDF observer is offline, retrying...
+
+2025-08-19-11-04-38 : Email script PDF observer is still offline, aborting 
+script...
+
+
+
+
+
+
+2025-08-19-11-45-24-11-45-24 : ruby_retry.sh has been initiated.
+
+2025-08-19-11-45-24 : Attempt 1 of 5...
+
+2025-08-19-11-45-24 : Email script PDF observer is offline, retrying...
+
+2025-08-19-11-45-25 : Email script PDF observer is offline, retrying...
+
+2025-08-19-11-45-26 : Email script PDF observer is offline, retrying...
+
+2025-08-19-11-45-27 : Email script PDF observer is offline, retrying...
+
+2025-08-19-11-45-28 : Email script PDF observer is offline, retrying...
+
+2025-08-19-11-45-29 : Email script PDF observer is offline, retrying...
+
+2025-08-19-11-45-30 : Email script PDF observer is offline, retrying...
+
+2025-08-19-11-45-31 : Email script PDF observer is offline, retrying...
+
+2025-08-19-11-45-32 : Email script PDF observer is offline, retrying...
+
+2025-08-19-11-45-33 : Email script PDF observer is offline, retrying...
+
+2025-08-19-11-45-34 : Email script PDF observer is offline, retrying...
+
+2025-08-19-11-45-35 : Email script PDF observer is offline, retrying...
+
+2025-08-19-11-45-36 : Email script PDF observer is offline, retrying...
+
+2025-08-19-11-45-37 : Email script PDF observer is offline, retrying...
+
+2025-08-19-11-45-38 : Email script PDF observer is offline, retrying...
+
+2025-08-19-11-45-39 : Email script PDF observer is offline, retrying...
+
+2025-08-19-11-45-40 : Email script PDF observer is offline, retrying...
+
+2025-08-19-11-45-41 : Email script PDF observer is offline, retrying...
+
+2025-08-19-11-45-42 : Email script PDF observer is offline, retrying...
+
+2025-08-19-11-45-43 : Email script PDF observer is offline, retrying...
+
+2025-08-19-11-45-44 : Email script PDF observer is still offline, aborting 
+script...
+
+
+
+
+
+
+2025-08-19-14-00-22-14-00-22 : ruby_retry.sh has been initiated.
+
+2025-08-19-14-00-22 : Attempt 1 of 5...
+
+2025-08-19-14-00-22 : Email script PDF observer is offline, retrying...
+
+2025-08-19-14-00-23 : Email script PDF observer is offline, retrying...
+
+2025-08-19-14-00-24 : Email script PDF observer is offline, retrying...
+
+2025-08-19-14-00-25 : Email script PDF observer is offline, retrying...
+
+2025-08-19-14-00-26 : Email script PDF observer is offline, retrying...
+
+2025-08-19-14-00-27 : Email script PDF observer is offline, retrying...
+
+2025-08-19-14-00-28 : Email script PDF observer is offline, retrying...
+
+2025-08-19-14-00-29 : Email script PDF observer is offline, retrying...
+
+2025-08-19-14-00-30 : Email script PDF observer is offline, retrying...
+
+2025-08-19-14-00-31 : Email script PDF observer is offline, retrying...
+
+2025-08-19-14-00-32 : Email script PDF observer is offline, retrying...
+
+2025-08-19-14-00-33 : Email script PDF observer is offline, retrying...
+
+2025-08-19-14-00-34 : Email script PDF observer is offline, retrying...
+
+2025-08-19-14-00-35 : Email script PDF observer is offline, retrying...
+
+2025-08-19-14-00-36 : Email script PDF observer is offline, retrying...
+
+2025-08-19-14-00-37 : Email script PDF observer is offline, retrying...
+
+2025-08-19-14-00-38 : Email script PDF observer is offline, retrying...
+
+2025-08-19-14-00-39 : Email script PDF observer is offline, retrying...
+
+2025-08-19-14-00-40 : Email script PDF observer is offline, retrying...
+
+2025-08-19-14-00-41 : Email script PDF observer is offline, retrying...
+
+2025-08-19-14-00-42 : Email script PDF observer is still offline, aborting 
+script...
+
+
+
+
+
+
+2025-08-20-11-13-55-11-13-55 : ruby_retry.sh has been initiated.
+
+2025-08-20-11-13-55 : Attempt 1 of 5...
+
+2025-08-20-11-13-55 : Failed (exit code: 1). Retrying in 3 seconds...
+
+2025-08-20-11-13-58 : Attempt 2 of 5...
+
+2025-08-20-11-13-58 : Failed (exit code: 1). Retrying in 3 seconds...
+
+2025-08-20-11-14-01 : Attempt 3 of 5...
+
+2025-08-20-11-14-01 : Failed (exit code: 1). Retrying in 3 seconds...
+
+2025-08-20-11-14-04 : Attempt 4 of 5...
+
+2025-08-20-11-14-04 : Failed (exit code: 1). Retrying in 3 seconds...
+
+2025-08-20-11-14-07 : Attempt 5 of 5...
+
+2025-08-20-11-14-07 : Failed (exit code: 1). Retrying in 3 seconds...
+
+2025-08-20-11-14-10 : Max retries reached. Aborting...
+
+
+
+
+
+
+
+
+
+
+2025-08-20-11-23-08-11-23-08 : ruby_retry.sh has been initiated.
+
+2025-08-20-11-23-08 : Attempt 1 of 5...
+
+2025-08-20-11-23-08 : Failed (exit code: 1). Retrying in 3 seconds...
+
+2025-08-20-11-23-11 : Attempt 2 of 5...
+
+2025-08-20-11-23-11 : Failed (exit code: 1). Retrying in 3 seconds...
+
+2025-08-20-11-23-14 : Attempt 3 of 5...
+
+2025-08-20-11-23-14 : Failed (exit code: 1). Retrying in 3 seconds...
+
+2025-08-20-11-23-17 : Attempt 4 of 5...
+
+2025-08-20-11-23-17 : Failed (exit code: 1). Retrying in 3 seconds...
+
+2025-08-20-11-23-20 : Attempt 5 of 5...
+
+2025-08-20-11-23-20 : Failed (exit code: 1). Retrying in 3 seconds...
+
+2025-08-20-11-23-23 : Max retries reached. Aborting...
+
+
+
+
+
+
+
+
+
+
+2025-08-20-11-31-52-11-31-52 : ruby_retry.sh has been initiated.
+
+2025-08-20-11-31-52 : Attempt 1 of 5...
+
+2025-08-20-11-31-52 : Email script PDF observer is offline, retrying...
+
+2025-08-20-11-31-53 : Email script PDF observer is offline, retrying...
+
+2025-08-20-11-31-54 : Email script PDF observer is offline, retrying...
+
+2025-08-20-11-31-55 : Email script PDF observer is offline, retrying...
+
+2025-08-20-11-31-56 : Email script PDF observer is offline, retrying...
+
+2025-08-20-11-31-57 : Email script PDF observer is offline, retrying...
+
+2025-08-20-11-31-58 : Email script PDF observer is offline, retrying...
+
+2025-08-20-11-31-59 : Email script PDF observer is offline, retrying...
+
+2025-08-20-11-32-00 : Email script PDF observer is offline, retrying...
+
+2025-08-20-11-32-01 : Email script PDF observer is offline, retrying...
+
+2025-08-20-11-32-02 : Email script PDF observer is still offline, aborting 
+script...
+
+
+
+
+
+
+2025-08-20-11-32-58-11-32-58 : ruby_retry.sh has been initiated.
+
+2025-08-20-11-32-58 : Attempt 1 of 5...
+
+2025-08-20-11-32-58 : Failed (exit code: 1). Retrying in 3 seconds...
+
+2025-08-20-11-33-01 : Attempt 2 of 5...
+
+2025-08-20-11-33-01 : Failed (exit code: 1). Retrying in 3 seconds...
+
+2025-08-20-11-33-04 : Attempt 3 of 5...
+
+2025-08-20-11-33-04 : Failed (exit code: 1). Retrying in 3 seconds...
+
+2025-08-20-11-33-07 : Attempt 4 of 5...
+
+2025-08-20-11-33-07 : Failed (exit code: 1). Retrying in 3 seconds...
+
+2025-08-20-11-33-10 : Attempt 5 of 5...
+
+2025-08-20-11-33-10 : Failed (exit code: 1). Retrying in 3 seconds...
+
+2025-08-20-11-33-13 : Max retries reached. Aborting...
+
+
+
+
+
+
+
+
+
+
+2025-08-20-14-00-21-14-00-21 : ruby_retry.sh has been initiated.
+
+2025-08-20-14-00-21 : Attempt 1 of 5...
+
+2025-08-20-14-00-21 : Failed (exit code: 1). Retrying in 3 seconds...
+
+2025-08-20-14-00-24 : Attempt 2 of 5...
+
+2025-08-20-14-00-24 : Failed (exit code: 1). Retrying in 3 seconds...
+
+2025-08-20-14-00-27 : Attempt 3 of 5...
+
+2025-08-20-14-00-27 : Failed (exit code: 1). Retrying in 3 seconds...
+
+2025-08-20-14-00-30 : Attempt 4 of 5...
+
+2025-08-20-14-00-30 : Failed (exit code: 1). Retrying in 3 seconds...
+
+2025-08-20-14-00-33 : Attempt 5 of 5...
+
+2025-08-20-14-00-33 : Failed (exit code: 1). Retrying in 3 seconds...
+
+2025-08-20-14-00-36 : Max retries reached. Aborting...
+
+
+
+
+
+
+
+
+
+
+2025-08-21-08-22-20-08-22-20 : ruby_retry.sh has been initiated.
+
+2025-08-21-08-22-20 : Attempt 1 of 5...
+
+I, [2025-08-21T08:22:22.277182 #121136]  INFO -- : Report started at 2025-08-21 
+08:22:22 +0000
+I, [2025-08-21T08:22:22.277245 #121136]  INFO -- : You are running 
+ruby-grafana-reporter version 0.9.4.
+I, [2025-08-21T08:25:33.752428 #121136]  INFO -- : Report creation ended after 
+191 seconds with status 'finished'
+Success!
+
+
+
+
+
+2025-08-21-13-38-51-13-38-51 : ruby_retry.sh has been initiated.
+
+2025-08-21-13-38-51 : Attempt 1 of 5...
+
+2025-08-21-14-38-51 : Email script PDF observer is offline, retrying...
+
+2025-08-21-14-38-52 : Email script PDF observer is offline, retrying...
+
+2025-08-21-14-38-53 : Email script PDF observer is offline, retrying...
+
+2025-08-21-14-38-54 : Email script PDF observer is offline, retrying...
+
+2025-08-21-14-38-55 : Email script PDF observer is offline, retrying...
+
+2025-08-21-14-38-56 : Email script PDF observer is offline, retrying...
+
+2025-08-21-14-38-57 : Email script PDF observer is offline, retrying...
+
+2025-08-21-14-38-58 : Email script PDF observer is offline, retrying...
+
+2025-08-21-14-38-59 : Email script PDF observer is offline, retrying...
+
+2025-08-21-14-39-00 : Email script PDF observer is offline, retrying...
+
+2025-08-21-14-39-01 : Email script PDF observer is still offline, aborting 
+script...
+
+
+
+
+
+
+2025-08-21-14-09-19-14-09-19 : ruby_retry.sh has been initiated.
+
+2025-08-21-14-09-19 : Attempt 1 of 5...
+
+2025-08-21-15-09-19 : Email script PDF observer is offline, retrying...
+
+2025-08-21-15-09-20 : Email script PDF observer is offline, retrying...
+
+2025-08-21-15-09-21 : Email script PDF observer is offline, retrying...
+
+2025-08-21-15-09-22 : Email script PDF observer is offline, retrying...
+
+2025-08-21-15-09-23 : Email script PDF observer is offline, retrying...
+
+2025-08-21-15-09-24 : Email script PDF observer is offline, retrying...
+
+2025-08-21-15-09-25 : Email script PDF observer is offline, retrying...
+
+2025-08-21-15-09-27 : Email script PDF observer is offline, retrying...
+
+2025-08-21-15-09-28 : Email script PDF observer is offline, retrying...
+
+2025-08-21-15-09-29 : Email script PDF observer is offline, retrying...
+
+2025-08-21-15-09-30 : Email script PDF observer is still offline, aborting 
+script...
+
+
+
+
+
+
+2025-08-22-06-12-50-06-12-50 : ruby_retry.sh has been initiated.
+
+2025-08-22-06-12-50 : Attempt 1 of 5...
+
+/usr/lib/ruby/vendor_ruby/rubygems.rb:264:in `find_spec_for_exe': can't find 
+gem ruby-grafana-reporter (>= 0.a) with executable ruby-grafana-reporter 
+(Gem::GemNotFoundException)
+	from /usr/lib/ruby/vendor_ruby/rubygems.rb:283:in `activate_bin_path'
+	from ruby-grafana-reporter:25:in `<main>'
+2025-08-22-07-12-50 : Failed (exit code: 1). Retrying in 3 seconds...
+
+2025-08-22-06-12-53 : Attempt 2 of 5...
+
+/usr/lib/ruby/vendor_ruby/rubygems.rb:264:in `find_spec_for_exe': can't find 
+gem ruby-grafana-reporter (>= 0.a) with executable ruby-grafana-reporter 
+(Gem::GemNotFoundException)
+	from /usr/lib/ruby/vendor_ruby/rubygems.rb:283:in `activate_bin_path'
+	from ruby-grafana-reporter:25:in `<main>'
+2025-08-22-07-12-53 : Failed (exit code: 1). Retrying in 3 seconds...
+
+2025-08-22-06-12-56 : Attempt 3 of 5...
+
+/usr/lib/ruby/vendor_ruby/rubygems.rb:264:in `find_spec_for_exe': can't find 
+gem ruby-grafana-reporter (>= 0.a) with executable ruby-grafana-reporter 
+(Gem::GemNotFoundException)
+	from /usr/lib/ruby/vendor_ruby/rubygems.rb:283:in `activate_bin_path'
+	from ruby-grafana-reporter:25:in `<main>'
+2025-08-22-07-12-56 : Failed (exit code: 1). Retrying in 3 seconds...
+
+2025-08-22-06-12-59 : Attempt 4 of 5...
+
+/usr/lib/ruby/vendor_ruby/rubygems.rb:264:in `find_spec_for_exe': can't find 
+gem ruby-grafana-reporter (>= 0.a) with executable ruby-grafana-reporter 
+(Gem::GemNotFoundException)
+	from /usr/lib/ruby/vendor_ruby/rubygems.rb:283:in `activate_bin_path'
+	from ruby-grafana-reporter:25:in `<main>'
+2025-08-22-07-12-59 : Failed (exit code: 1). Retrying in 3 seconds...
+
+2025-08-22-06-13-02 : Attempt 5 of 5...
+
+/usr/lib/ruby/vendor_ruby/rubygems.rb:264:in `find_spec_for_exe': can't find 
+gem ruby-grafana-reporter (>= 0.a) with executable ruby-grafana-reporter 
+(Gem::GemNotFoundException)
+	from /usr/lib/ruby/vendor_ruby/rubygems.rb:283:in `activate_bin_path'
+	from ruby-grafana-reporter:25:in `<main>'
+2025-08-22-07-13-02 : Failed (exit code: 1). Retrying in 3 seconds...
+
+2025-08-22-07-13-05 : Max retries reached. Aborting...
+
+
+
+
+
+
+
+
+
+
+2025-08-22-09-16-37-09-16-37 : ruby_retry.sh has been initiated.
+
+2025-08-22-09-16-37 : Attempt 1 of 5...
+
+/usr/lib/ruby/vendor_ruby/rubygems.rb:264:in `find_spec_for_exe': can't find 
+gem ruby-grafana-reporter (>= 0.a) with executable ruby-grafana-reporter 
+(Gem::GemNotFoundException)
+	from /usr/lib/ruby/vendor_ruby/rubygems.rb:283:in `activate_bin_path'
+	from ruby-grafana-reporter:25:in `<main>'
+2025-08-22-10-16-38 : Failed (exit code: 1). Retrying in 3 seconds...
+
+2025-08-22-09-16-41 : Attempt 2 of 5...
+
+/usr/lib/ruby/vendor_ruby/rubygems.rb:264:in `find_spec_for_exe': can't find 
+gem ruby-grafana-reporter (>= 0.a) with executable ruby-grafana-reporter 
+(Gem::GemNotFoundException)
+	from /usr/lib/ruby/vendor_ruby/rubygems.rb:283:in `activate_bin_path'
+	from ruby-grafana-reporter:25:in `<main>'
+2025-08-22-10-16-41 : Failed (exit code: 1). Retrying in 3 seconds...
+
+2025-08-22-09-16-44 : Attempt 3 of 5...
+
+/usr/lib/ruby/vendor_ruby/rubygems.rb:264:in `find_spec_for_exe': can't find 
+gem ruby-grafana-reporter (>= 0.a) with executable ruby-grafana-reporter 
+(Gem::GemNotFoundException)
+	from /usr/lib/ruby/vendor_ruby/rubygems.rb:283:in `activate_bin_path'
+	from ruby-grafana-reporter:25:in `<main>'
+2025-08-22-10-16-44 : Failed (exit code: 1). Retrying in 3 seconds...
+
+2025-08-22-09-16-47 : Attempt 4 of 5...
+
+/usr/lib/ruby/vendor_ruby/rubygems.rb:264:in `find_spec_for_exe': can't find 
+gem ruby-grafana-reporter (>= 0.a) with executable ruby-grafana-reporter 
+(Gem::GemNotFoundException)
+	from /usr/lib/ruby/vendor_ruby/rubygems.rb:283:in `activate_bin_path'
+	from ruby-grafana-reporter:25:in `<main>'
+2025-08-22-10-16-47 : Failed (exit code: 1). Retrying in 3 seconds...
+
+2025-08-22-09-16-50 : Attempt 5 of 5...
+
+/usr/lib/ruby/vendor_ruby/rubygems.rb:264:in `find_spec_for_exe': can't find 
+gem ruby-grafana-reporter (>= 0.a) with executable ruby-grafana-reporter 
+(Gem::GemNotFoundException)
+	from /usr/lib/ruby/vendor_ruby/rubygems.rb:283:in `activate_bin_path'
+	from ruby-grafana-reporter:25:in `<main>'
+2025-08-22-10-16-50 : Failed (exit code: 1). Retrying in 3 seconds...
+
+2025-08-22-10-16-53 : Max retries reached. Aborting...
+
+
+
+
+
+
+
+
+
+
+2025-08-22-09-26-18-09-26-18 : ruby_retry.sh has been initiated.
+
+2025-08-22-09-26-18 : Attempt 1 of 5...
+
+I, [2025-08-22T10:26:19.125195 #11061]  INFO -- : Report started at 2025-08-22 
+10:26:19 +0100
+I, [2025-08-22T10:26:19.125239 #11061]  INFO -- : You are running 
+ruby-grafana-reporter version 0.9.4.
+E, [2025-08-22T10:26:19.531135 #11061] ERROR -- : GrafanaError: The specified 
+panel '1' from dashboard '151463bf-b3af-484e-ba2f-5a66d30a0157' could not be 
+rendered to an image. Check if rendering is possible manually by selecting 
+"Share" and then "Direct link rendered image" from a panel's options menu. 
+(Grafana::ImageCouldNotBeRenderedError)
+E, [2025-08-22T10:26:19.548185 #11061] ERROR -- : GrafanaError: The specified 
+panel '2' from dashboard '151463bf-b3af-484e-ba2f-5a66d30a0157' could not be 
+rendered to an image. Check if rendering is possible manually by selecting 
+"Share" and then "Direct link rendered image" from a panel's options menu. 
+(Grafana::ImageCouldNotBeRenderedError)
+E, [2025-08-22T10:26:19.559022 #11061] ERROR -- : GrafanaError: The specified 
+panel '3' from dashboard '151463bf-b3af-484e-ba2f-5a66d30a0157' could not be 
+rendered to an image. Check if rendering is possible manually by selecting 
+"Share" and then "Direct link rendered image" from a panel's options menu. 
+(Grafana::ImageCouldNotBeRenderedError)
+E, [2025-08-22T10:26:19.569425 #11061] ERROR -- : GrafanaError: The specified 
+panel '4' from dashboard '151463bf-b3af-484e-ba2f-5a66d30a0157' could not be 
+rendered to an image. Check if rendering is possible manually by selecting 
+"Share" and then "Direct link rendered image" from a panel's options menu. 
+(Grafana::ImageCouldNotBeRenderedError)
+E, [2025-08-22T10:26:19.597240 #11061] ERROR -- : GrafanaError: The specified 
+panel '1' from dashboard 'e32b8e88-5254-420c-8f78-4b0bd2df1f53' could not be 
+rendered to an image. Check if rendering is possible manually by selecting 
+"Share" and then "Direct link rendered image" from a panel's options menu. 
+(Grafana::ImageCouldNotBeRenderedError)
+E, [2025-08-22T10:26:19.607189 #11061] ERROR -- : GrafanaError: The specified 
+panel '2' from dashboard 'e32b8e88-5254-420c-8f78-4b0bd2df1f53' could not be 
+rendered to an image. Check if rendering is possible manually by selecting 
+"Share" and then "Direct link rendered image" from a panel's options menu. 
+(Grafana::ImageCouldNotBeRenderedError)
+E, [2025-08-22T10:26:19.618437 #11061] ERROR -- : GrafanaError: The specified 
+panel '3' from dashboard 'e32b8e88-5254-420c-8f78-4b0bd2df1f53' could not be 
+rendered to an image. Check if rendering is possible manually by selecting 
+"Share" and then "Direct link rendered image" from a panel's options menu. 
+(Grafana::ImageCouldNotBeRenderedError)
+E, [2025-08-22T10:26:19.629221 #11061] ERROR -- : GrafanaError: The specified 
+panel '4' from dashboard 'e32b8e88-5254-420c-8f78-4b0bd2df1f53' could not be 
+rendered to an image. Check if rendering is possible manually by selecting 
+"Share" and then "Direct link rendered image" from a panel's options menu. 
+(Grafana::ImageCouldNotBeRenderedError)
+E, [2025-08-22T10:26:19.655726 #11061] ERROR -- : GrafanaError: The specified 
+panel '1' from dashboard '3c96457b-280e-4045-8262-742ba34bfad3' could not be 
+rendered to an image. Check if rendering is possible manually by selecting 
+"Share" and then "Direct link rendered image" from a panel's options menu. 
+(Grafana::ImageCouldNotBeRenderedError)
+E, [2025-08-22T10:26:19.665530 #11061] ERROR -- : GrafanaError: The specified 
+panel '2' from dashboard '3c96457b-280e-4045-8262-742ba34bfad3' could not be 
+rendered to an image. Check if rendering is possible manually by selecting 
+"Share" and then "Direct link rendered image" from a panel's options menu. 
+(Grafana::ImageCouldNotBeRenderedError)
+E, [2025-08-22T10:26:19.675083 #11061] ERROR -- : GrafanaError: The specified 
+panel '3' from dashboard '3c96457b-280e-4045-8262-742ba34bfad3' could not be 
+rendered to an image. Check if rendering is possible manually by selecting 
+"Share" and then "Direct link rendered image" from a panel's options menu. 
+(Grafana::ImageCouldNotBeRenderedError)
+E, [2025-08-22T10:26:19.684200 #11061] ERROR -- : GrafanaError: The specified 
+panel '4' from dashboard '3c96457b-280e-4045-8262-742ba34bfad3' could not be 
+rendered to an image. Check if rendering is possible manually by selecting 
+"Share" and then "Direct link rendered image" from a panel's options menu. 
+(Grafana::ImageCouldNotBeRenderedError)
+I, [2025-08-22T10:26:19.709960 #11061]  INFO -- : Report creation ended after 0 
+seconds with status 'finished'
+Success!
+
+
+
+
+
+2025-08-22-09-44-36-09-44-36 : ruby_retry.sh has been initiated.
+
+2025-08-22-09-44-36 : Attempt 1 of 5...
+
+I, [2025-08-22T10:44:37.113593 #15500]  INFO -- : Report started at 2025-08-22 
+10:44:37 +0100
+I, [2025-08-22T10:44:37.113632 #15500]  INFO -- : You are running 
+ruby-grafana-reporter version 0.9.4.
+E, [2025-08-22T10:44:37.415701 #15500] ERROR -- : GrafanaError: The specified 
+panel '1' from dashboard '151463bf-b3af-484e-ba2f-5a66d30a0157' could not be 
+rendered to an image. Check if rendering is possible manually by selecting 
+"Share" and then "Direct link rendered image" from a panel's options menu. 
+(Grafana::ImageCouldNotBeRenderedError)
+E, [2025-08-22T10:44:37.423857 #15500] ERROR -- : GrafanaError: The specified 
+panel '2' from dashboard '151463bf-b3af-484e-ba2f-5a66d30a0157' could not be 
+rendered to an image. Check if rendering is possible manually by selecting 
+"Share" and then "Direct link rendered image" from a panel's options menu. 
+(Grafana::ImageCouldNotBeRenderedError)
+E, [2025-08-22T10:44:37.431271 #15500] ERROR -- : GrafanaError: The specified 
+panel '3' from dashboard '151463bf-b3af-484e-ba2f-5a66d30a0157' could not be 
+rendered to an image. Check if rendering is possible manually by selecting 
+"Share" and then "Direct link rendered image" from a panel's options menu. 
+(Grafana::ImageCouldNotBeRenderedError)
+E, [2025-08-22T10:44:37.438666 #15500] ERROR -- : GrafanaError: The specified 
+panel '4' from dashboard '151463bf-b3af-484e-ba2f-5a66d30a0157' could not be 
+rendered to an image. Check if rendering is possible manually by selecting 
+"Share" and then "Direct link rendered image" from a panel's options menu. 
+(Grafana::ImageCouldNotBeRenderedError)
+E, [2025-08-22T10:44:37.459739 #15500] ERROR -- : GrafanaError: The specified 
+panel '1' from dashboard 'e32b8e88-5254-420c-8f78-4b0bd2df1f53' could not be 
+rendered to an image. Check if rendering is possible manually by selecting 
+"Share" and then "Direct link rendered image" from a panel's options menu. 
+(Grafana::ImageCouldNotBeRenderedError)
+E, [2025-08-22T10:44:37.468007 #15500] ERROR -- : GrafanaError: The specified 
+panel '2' from dashboard 'e32b8e88-5254-420c-8f78-4b0bd2df1f53' could not be 
+rendered to an image. Check if rendering is possible manually by selecting 
+"Share" and then "Direct link rendered image" from a panel's options menu. 
+(Grafana::ImageCouldNotBeRenderedError)
+E, [2025-08-22T10:44:37.477381 #15500] ERROR -- : GrafanaError: The specified 
+panel '3' from dashboard 'e32b8e88-5254-420c-8f78-4b0bd2df1f53' could not be 
+rendered to an image. Check if rendering is possible manually by selecting 
+"Share" and then "Direct link rendered image" from a panel's options menu. 
+(Grafana::ImageCouldNotBeRenderedError)
+E, [2025-08-22T10:44:37.486024 #15500] ERROR -- : GrafanaError: The specified 
+panel '4' from dashboard 'e32b8e88-5254-420c-8f78-4b0bd2df1f53' could not be 
+rendered to an image. Check if rendering is possible manually by selecting 
+"Share" and then "Direct link rendered image" from a panel's options menu. 
+(Grafana::ImageCouldNotBeRenderedError)
+E, [2025-08-22T10:44:37.508273 #15500] ERROR -- : GrafanaError: The specified 
+panel '1' from dashboard '3c96457b-280e-4045-8262-742ba34bfad3' could not be 
+rendered to an image. Check if rendering is possible manually by selecting 
+"Share" and then "Direct link rendered image" from a panel's options menu. 
+(Grafana::ImageCouldNotBeRenderedError)
+E, [2025-08-22T10:44:37.516861 #15500] ERROR -- : GrafanaError: The specified 
+panel '2' from dashboard '3c96457b-280e-4045-8262-742ba34bfad3' could not be 
+rendered to an image. Check if rendering is possible manually by selecting 
+"Share" and then "Direct link rendered image" from a panel's options menu. 
+(Grafana::ImageCouldNotBeRenderedError)
+E, [2025-08-22T10:44:37.524819 #15500] ERROR -- : GrafanaError: The specified 
+panel '3' from dashboard '3c96457b-280e-4045-8262-742ba34bfad3' could not be 
+rendered to an image. Check if rendering is possible manually by selecting 
+"Share" and then "Direct link rendered image" from a panel's options menu. 
+(Grafana::ImageCouldNotBeRenderedError)
+E, [2025-08-22T10:44:37.533394 #15500] ERROR -- : GrafanaError: The specified 
+panel '4' from dashboard '3c96457b-280e-4045-8262-742ba34bfad3' could not be 
+rendered to an image. Check if rendering is possible manually by selecting 
+"Share" and then "Direct link rendered image" from a panel's options menu. 
+(Grafana::ImageCouldNotBeRenderedError)
+I, [2025-08-22T10:44:37.555829 #15500]  INFO -- : Report creation ended after 0 
+seconds with status 'finished'
+Success!
+
+
+
+
+
+2025-08-22-09-47-44-09-47-44 : ruby_retry.sh has been initiated.
+
+2025-08-22-09-47-44 : Attempt 1 of 5...
+
+I, [2025-08-22T10:47:44.564486 #16342]  INFO -- : Report started at 2025-08-22 
+10:47:44 +0100
+I, [2025-08-22T10:47:44.564544 #16342]  INFO -- : You are running 
+ruby-grafana-reporter version 0.9.4.
+E, [2025-08-22T10:47:44.837527 #16342] ERROR -- : GrafanaError: The specified 
+panel '1' from dashboard '151463bf-b3af-484e-ba2f-5a66d30a0157' could not be 
+rendered to an image. Check if rendering is possible manually by selecting 
+"Share" and then "Direct link rendered image" from a panel's options menu. 
+(Grafana::ImageCouldNotBeRenderedError)
+E, [2025-08-22T10:47:44.847249 #16342] ERROR -- : GrafanaError: The specified 
+panel '2' from dashboard '151463bf-b3af-484e-ba2f-5a66d30a0157' could not be 
+rendered to an image. Check if rendering is possible manually by selecting 
+"Share" and then "Direct link rendered image" from a panel's options menu. 
+(Grafana::ImageCouldNotBeRenderedError)
+E, [2025-08-22T10:47:44.856598 #16342] ERROR -- : GrafanaError: The specified 
+panel '3' from dashboard '151463bf-b3af-484e-ba2f-5a66d30a0157' could not be 
+rendered to an image. Check if rendering is possible manually by selecting 
+"Share" and then "Direct link rendered image" from a panel's options menu. 
+(Grafana::ImageCouldNotBeRenderedError)
+E, [2025-08-22T10:47:44.866490 #16342] ERROR -- : GrafanaError: The specified 
+panel '4' from dashboard '151463bf-b3af-484e-ba2f-5a66d30a0157' could not be 
+rendered to an image. Check if rendering is possible manually by selecting 
+"Share" and then "Direct link rendered image" from a panel's options menu. 
+(Grafana::ImageCouldNotBeRenderedError)
+E, [2025-08-22T10:47:44.888970 #16342] ERROR -- : GrafanaError: The specified 
+panel '1' from dashboard 'e32b8e88-5254-420c-8f78-4b0bd2df1f53' could not be 
+rendered to an image. Check if rendering is possible manually by selecting 
+"Share" and then "Direct link rendered image" from a panel's options menu. 
+(Grafana::ImageCouldNotBeRenderedError)
+E, [2025-08-22T10:47:44.899112 #16342] ERROR -- : GrafanaError: The specified 
+panel '2' from dashboard 'e32b8e88-5254-420c-8f78-4b0bd2df1f53' could not be 
+rendered to an image. Check if rendering is possible manually by selecting 
+"Share" and then "Direct link rendered image" from a panel's options menu. 
+(Grafana::ImageCouldNotBeRenderedError)
+E, [2025-08-22T10:47:44.909371 #16342] ERROR -- : GrafanaError: The specified 
+panel '3' from dashboard 'e32b8e88-5254-420c-8f78-4b0bd2df1f53' could not be 
+rendered to an image. Check if rendering is possible manually by selecting 
+"Share" and then "Direct link rendered image" from a panel's options menu. 
+(Grafana::ImageCouldNotBeRenderedError)
+E, [2025-08-22T10:47:44.918358 #16342] ERROR -- : GrafanaError: The specified 
+panel '4' from dashboard 'e32b8e88-5254-420c-8f78-4b0bd2df1f53' could not be 
+rendered to an image. Check if rendering is possible manually by selecting 
+"Share" and then "Direct link rendered image" from a panel's options menu. 
+(Grafana::ImageCouldNotBeRenderedError)
+E, [2025-08-22T10:47:44.942684 #16342] ERROR -- : GrafanaError: The specified 
+panel '1' from dashboard '3c96457b-280e-4045-8262-742ba34bfad3' could not be 
+rendered to an image. Check if rendering is possible manually by selecting 
+"Share" and then "Direct link rendered image" from a panel's options menu. 
+(Grafana::ImageCouldNotBeRenderedError)
+E, [2025-08-22T10:47:44.952644 #16342] ERROR -- : GrafanaError: The specified 
+panel '2' from dashboard '3c96457b-280e-4045-8262-742ba34bfad3' could not be 
+rendered to an image. Check if rendering is possible manually by selecting 
+"Share" and then "Direct link rendered image" from a panel's options menu. 
+(Grafana::ImageCouldNotBeRenderedError)
+E, [2025-08-22T10:47:44.961453 #16342] ERROR -- : GrafanaError: The specified 
+panel '3' from dashboard '3c96457b-280e-4045-8262-742ba34bfad3' could not be 
+rendered to an image. Check if rendering is possible manually by selecting 
+"Share" and then "Direct link rendered image" from a panel's options menu. 
+(Grafana::ImageCouldNotBeRenderedError)
+E, [2025-08-22T10:47:44.970207 #16342] ERROR -- : GrafanaError: The specified 
+panel '4' from dashboard '3c96457b-280e-4045-8262-742ba34bfad3' could not be 
+rendered to an image. Check if rendering is possible manually by selecting 
+"Share" and then "Direct link rendered image" from a panel's options menu. 
+(Grafana::ImageCouldNotBeRenderedError)
+I, [2025-08-22T10:47:44.993197 #16342]  INFO -- : Report creation ended after 0 
+seconds with status 'finished'
+Success!
+
+
+
+
+
+2025-08-22-09-49-09-09-49-09 : ruby_retry.sh has been initiated.
+
+2025-08-22-09-49-09 : Attempt 1 of 5...
+
+2025-08-22-10-49-09 : Email script PDF observer is offline, retrying...
+
+2025-08-22-10-49-10 : Email script PDF observer is offline, retrying...
+
+2025-08-22-10-49-11 : Email script PDF observer is offline, retrying...
+
+2025-08-22-10-49-12 : Email script PDF observer is offline, retrying...
+
+2025-08-22-10-49-13 : Email script PDF observer is offline, retrying...
+
+2025-08-22-10-49-14 : Email script PDF observer is offline, retrying...
+
+2025-08-22-10-49-15 : Email script PDF observer is offline, retrying...
+
+2025-08-22-10-49-16 : Email script PDF observer is offline, retrying...
+
+2025-08-22-10-49-17 : Email script PDF observer is offline, retrying...
+
+2025-08-22-10-49-18 : Email script PDF observer is offline, retrying...
+
+2025-08-22-10-49-19 : Email script PDF observer is still offline, aborting 
+script...
+
+
+
+
+
+
+2025-08-22-09-50-19-09-50-19 : ruby_retry.sh has been initiated.
+
+2025-08-22-09-50-19 : Attempt 1 of 5...
+
+I, [2025-08-22T10:50:19.738143 #16848]  INFO -- : Report started at 2025-08-22 
+10:50:19 +0100
+I, [2025-08-22T10:50:19.738185 #16848]  INFO -- : You are running 
+ruby-grafana-reporter version 0.9.4.
+E, [2025-08-22T10:50:20.008267 #16848] ERROR -- : GrafanaError: The specified 
+panel '1' from dashboard '151463bf-b3af-484e-ba2f-5a66d30a0157' could not be 
+rendered to an image. Check if rendering is possible manually by selecting 
+"Share" and then "Direct link rendered image" from a panel's options menu. 
+(Grafana::ImageCouldNotBeRenderedError)
+E, [2025-08-22T10:50:20.015470 #16848] ERROR -- : GrafanaError: The specified 
+panel '2' from dashboard '151463bf-b3af-484e-ba2f-5a66d30a0157' could not be 
+rendered to an image. Check if rendering is possible manually by selecting 
+"Share" and then "Direct link rendered image" from a panel's options menu. 
+(Grafana::ImageCouldNotBeRenderedError)
+E, [2025-08-22T10:50:20.022487 #16848] ERROR -- : GrafanaError: The specified 
+panel '3' from dashboard '151463bf-b3af-484e-ba2f-5a66d30a0157' could not be 
+rendered to an image. Check if rendering is possible manually by selecting 
+"Share" and then "Direct link rendered image" from a panel's options menu. 
+(Grafana::ImageCouldNotBeRenderedError)
+E, [2025-08-22T10:50:20.029021 #16848] ERROR -- : GrafanaError: The specified 
+panel '4' from dashboard '151463bf-b3af-484e-ba2f-5a66d30a0157' could not be 
+rendered to an image. Check if rendering is possible manually by selecting 
+"Share" and then "Direct link rendered image" from a panel's options menu. 
+(Grafana::ImageCouldNotBeRenderedError)
+E, [2025-08-22T10:50:20.046511 #16848] ERROR -- : GrafanaError: The specified 
+panel '1' from dashboard 'e32b8e88-5254-420c-8f78-4b0bd2df1f53' could not be 
+rendered to an image. Check if rendering is possible manually by selecting 
+"Share" and then "Direct link rendered image" from a panel's options menu. 
+(Grafana::ImageCouldNotBeRenderedError)
+E, [2025-08-22T10:50:20.053954 #16848] ERROR -- : GrafanaError: The specified 
+panel '2' from dashboard 'e32b8e88-5254-420c-8f78-4b0bd2df1f53' could not be 
+rendered to an image. Check if rendering is possible manually by selecting 
+"Share" and then "Direct link rendered image" from a panel's options menu. 
+(Grafana::ImageCouldNotBeRenderedError)
+E, [2025-08-22T10:50:20.061483 #16848] ERROR -- : GrafanaError: The specified 
+panel '3' from dashboard 'e32b8e88-5254-420c-8f78-4b0bd2df1f53' could not be 
+rendered to an image. Check if rendering is possible manually by selecting 
+"Share" and then "Direct link rendered image" from a panel's options menu. 
+(Grafana::ImageCouldNotBeRenderedError)
+E, [2025-08-22T10:50:20.068298 #16848] ERROR -- : GrafanaError: The specified 
+panel '4' from dashboard 'e32b8e88-5254-420c-8f78-4b0bd2df1f53' could not be 
+rendered to an image. Check if rendering is possible manually by selecting 
+"Share" and then "Direct link rendered image" from a panel's options menu. 
+(Grafana::ImageCouldNotBeRenderedError)
+E, [2025-08-22T10:50:20.086397 #16848] ERROR -- : GrafanaError: The specified 
+panel '1' from dashboard '3c96457b-280e-4045-8262-742ba34bfad3' could not be 
+rendered to an image. Check if rendering is possible manually by selecting 
+"Share" and then "Direct link rendered image" from a panel's options menu. 
+(Grafana::ImageCouldNotBeRenderedError)
+E, [2025-08-22T10:50:20.092848 #16848] ERROR -- : GrafanaError: The specified 
+panel '2' from dashboard '3c96457b-280e-4045-8262-742ba34bfad3' could not be 
+rendered to an image. Check if rendering is possible manually by selecting 
+"Share" and then "Direct link rendered image" from a panel's options menu. 
+(Grafana::ImageCouldNotBeRenderedError)
+E, [2025-08-22T10:50:20.099434 #16848] ERROR -- : GrafanaError: The specified 
+panel '3' from dashboard '3c96457b-280e-4045-8262-742ba34bfad3' could not be 
+rendered to an image. Check if rendering is possible manually by selecting 
+"Share" and then "Direct link rendered image" from a panel's options menu. 
+(Grafana::ImageCouldNotBeRenderedError)
+E, [2025-08-22T10:50:20.106307 #16848] ERROR -- : GrafanaError: The specified 
+panel '4' from dashboard '3c96457b-280e-4045-8262-742ba34bfad3' could not be 
+rendered to an image. Check if rendering is possible manually by selecting 
+"Share" and then "Direct link rendered image" from a panel's options menu. 
+(Grafana::ImageCouldNotBeRenderedError)
+I, [2025-08-22T10:50:20.125918 #16848]  INFO -- : Report creation ended after 1 
+seconds with status 'finished'
+Success!
+
+
+
+
+
+2025-08-22-10-20-21-10-20-21 : ruby_retry.sh has been initiated.
+
+2025-08-22-10-20-21 : Attempt 1 of 5...
+
+I, [2025-08-22T11:20:21.714126 #22659]  INFO -- : Report started at 2025-08-22 
+11:20:21 +0100
+I, [2025-08-22T11:20:21.714162 #22659]  INFO -- : You are running 
+ruby-grafana-reporter version 0.9.4.
+I, [2025-08-22T11:20:49.323554 #22659]  INFO -- : Report creation ended after 
+28 seconds with status 'finished'
+Success!
+
+
+
+
+
+2025-08-22-10-22-04-10-22-04 : ruby_retry.sh has been initiated.
+
+2025-08-22-10-22-04 : Attempt 1 of 5...
+
+I, [2025-08-22T11:22:04.996205 #24627]  INFO -- : Report started at 2025-08-22 
+11:22:04 +0100
+I, [2025-08-22T11:22:04.996282 #24627]  INFO -- : You are running 
+ruby-grafana-reporter version 0.9.4.
+I, [2025-08-22T11:22:32.111587 #24627]  INFO -- : Report creation ended after 
+28 seconds with status 'finished'
+Success!
+
+
+
+
+
+2025-08-22-10-38-12-10-38-12 : ruby_retry.sh has been initiated.
+
+2025-08-22-10-38-12 : Attempt 1 of 5...
+
+I, [2025-08-22T11:38:13.453598 #28406]  INFO -- : Report started at 2025-08-22 
+11:38:13 +0100
+I, [2025-08-22T11:38:13.453645 #28406]  INFO -- : You are running 
+ruby-grafana-reporter version 0.9.4.
+I, [2025-08-22T11:38:40.586190 #28406]  INFO -- : Report creation ended after 
+27 seconds with status 'finished'
+Success!
+
+
+
+
+
+2025-08-22-10-40-52-10-40-52 : ruby_retry.sh has been initiated.
+
+2025-08-22-10-40-52 : Attempt 1 of 5...
+
+I, [2025-08-22T11:40:53.512890 #30483]  INFO -- : Report started at 2025-08-22 
+11:40:53 +0100
+I, [2025-08-22T11:40:53.512943 #30483]  INFO -- : You are running 
+ruby-grafana-reporter version 0.9.4.
+I, [2025-08-22T11:41:20.152689 #30483]  INFO -- : Report creation ended after 
+27 seconds with status 'finished'
+Success!
+
+
+
+
+
+2025-08-25-08-55-25-08-55-25 : ruby_retry.sh has been initiated.
+
+2025-08-25-08-55-25 : Attempt 1 of 5...
+
+2025-08-25-09-55-25 : Email script PDF observer is offline, retrying...
+
+2025-08-25-09-55-26 : Email script PDF observer is offline, retrying...
+
+2025-08-25-09-55-27 : Email script PDF observer is offline, retrying...
+
+2025-08-25-09-55-28 : Email script PDF observer is offline, retrying...
+
+2025-08-25-09-55-29 : Email script PDF observer is offline, retrying...
+
+2025-08-25-09-55-30 : Email script PDF observer is offline, retrying...
+
+2025-08-25-09-55-31 : Email script PDF observer is offline, retrying...
+
+2025-08-25-09-55-32 : Email script PDF observer is offline, retrying...
+
+2025-08-25-09-55-33 : Email script PDF observer is offline, retrying...
+
+2025-08-25-09-55-34 : Email script PDF observer is offline, retrying...
+
+2025-08-25-09-55-35 : Email script PDF observer is still offline, aborting 
+script...
+
+
+
+
+
+
+2025-08-25-09-06-31-09-06-31 : ruby_retry.sh has been initiated.
+
+2025-08-25-09-06-31 : Attempt 1 of 5...
+
+./ruby_retry.sh: line 29: /usr/bin/ruby: No such file or directory
+2025-08-25-10-06-31 : Failed (exit code: 127). Retrying in 3 seconds...
+
+2025-08-25-09-06-34 : Attempt 2 of 5...
+
+./ruby_retry.sh: line 29: /usr/bin/ruby: No such file or directory
+2025-08-25-10-06-34 : Failed (exit code: 127). Retrying in 3 seconds...
+
+2025-08-25-09-06-37 : Attempt 3 of 5...
+
+./ruby_retry.sh: line 29: /usr/bin/ruby: No such file or directory
+2025-08-25-10-06-37 : Failed (exit code: 127). Retrying in 3 seconds...
+
+2025-08-25-09-06-40 : Attempt 4 of 5...
+
+./ruby_retry.sh: line 29: /usr/bin/ruby: No such file or directory
+2025-08-25-10-06-40 : Failed (exit code: 127). Retrying in 3 seconds...
+
+2025-08-25-09-06-43 : Attempt 5 of 5...
+
+./ruby_retry.sh: line 29: /usr/bin/ruby: No such file or directory
+2025-08-25-10-06-43 : Failed (exit code: 127). Retrying in 3 seconds...
+
+2025-08-25-10-06-46 : Max retries reached. Aborting...
+
+
+
+
+
+
+
+
+
+
+2025-08-25-09-13-16-09-13-16 : ruby_retry.sh has been initiated.
+
+2025-08-25-09-13-16 : Attempt 1 of 5...
+
+I, [2025-08-25T10:13:17.018221 #5365]  INFO -- : Report started at 2025-08-25 
+10:13:17 +0100
+I, [2025-08-25T10:13:17.018256 #5365]  INFO -- : You are running 
+ruby-grafana-reporter version 0.9.4.
+I, [2025-08-25T10:13:44.096201 #5365]  INFO -- : Report creation ended after 27 
+seconds with status 'finished'
+Success!
+
+
+
+
+
+2025-08-25-09-22-19-09-22-19 : ruby_retry.sh has been initiated.
+
+2025-08-25-09-22-19 : Attempt 1 of 5...
+
+I, [2025-08-25T10:22:19.974907 #9017]  INFO -- : Report started at 2025-08-25 
+10:22:19 +0100
+I, [2025-08-25T10:22:19.974947 #9017]  INFO -- : You are running 
+ruby-grafana-reporter version 0.9.4.
+I, [2025-08-25T10:22:46.922485 #9017]  INFO -- : Report creation ended after 27 
+seconds with status 'finished'
+Success!
+
+
+
+
+
+2025-08-25-10-04-06-10-04-06 : ruby_retry.sh has been initiated.
+
+2025-08-25-10-04-06 : Attempt 1 of 5...
+
+I, [2025-08-25T11:04:07.576337 #9588]  INFO -- : Report started at 2025-08-25 
+11:04:07 +0100
+I, [2025-08-25T11:04:07.576371 #9588]  INFO -- : You are running 
+ruby-grafana-reporter version 0.9.4.
+I, [2025-08-25T11:04:34.050477 #9588]  INFO -- : Report creation ended after 27 
+seconds with status 'finished'
+Success!
+
+
+
+
+
+2025-08-25-10-05-42-10-05-42 : ruby_retry.sh has been initiated.
+
+2025-08-25-10-05-42 : Attempt 1 of 5...
+
+2025-08-25-11-05-42 : Email script PDF observer is offline, retrying...
+
+2025-08-25-11-05-43 : Email script PDF observer is offline, retrying...
+
+2025-08-25-11-05-44 : Email script PDF observer is offline, retrying...
+
+2025-08-25-11-05-45 : Email script PDF observer is offline, retrying...
+
+2025-08-25-11-05-46 : Email script PDF observer is offline, retrying...
+
+2025-08-25-11-05-47 : Email script PDF observer is offline, retrying...
+
+2025-08-25-11-05-48 : Email script PDF observer is offline, retrying...
+
+2025-08-25-11-05-49 : Email script PDF observer is offline, retrying...
+
+2025-08-25-11-05-50 : Email script PDF observer is offline, retrying...
+
+2025-08-25-11-05-51 : Email script PDF observer is offline, retrying...
+
+2025-08-25-11-05-52 : Email script PDF observer is still offline, aborting 
+script...
+
+
+
+
+
+
+2025-08-25-10-07-32-10-07-32 : ruby_retry.sh has been initiated.
+
+2025-08-25-10-07-32 : Attempt 1 of 5...
+
+I, [2025-08-25T11:07:32.848149 #11848]  INFO -- : Report started at 2025-08-25 
+11:07:32 +0100
+I, [2025-08-25T11:07:32.848196 #11848]  INFO -- : You are running 
+ruby-grafana-reporter version 0.9.4.
+I, [2025-08-25T11:07:58.587226 #11848]  INFO -- : Report creation ended after 
+26 seconds with status 'finished'
+Success!
+
+
+
+
+
+2025-08-25-10-39-57-10-39-57 : ruby_retry.sh has been initiated.
+
+2025-08-25-10-39-57 : Attempt 1 of 5...
+
+I, [2025-08-25T11:39:58.337025 #5468]  INFO -- : Report started at 2025-08-25 
+11:39:58 +0100
+I, [2025-08-25T11:39:58.337071 #5468]  INFO -- : You are running 
+ruby-grafana-reporter version 0.9.4.
+I, [2025-08-25T11:40:25.181336 #5468]  INFO -- : Report creation ended after 27 
+seconds with status 'finished'
+Success!
+
+
+
+
+
+2025-08-25-10-50-17-10-50-17 : ruby_retry.sh has been initiated.
+
+2025-08-25-10-50-17 : Attempt 1 of 5...
+
+I, [2025-08-25T11:50:18.491233 #8660]  INFO -- : Report started at 2025-08-25 
+11:50:18 +0100
+I, [2025-08-25T11:50:18.491274 #8660]  INFO -- : You are running 
+ruby-grafana-reporter version 0.9.4.
+I, [2025-08-25T11:50:45.855565 #8660]  INFO -- : Report creation ended after 27 
+seconds with status 'finished'
+Success!
+
+
+
+
+
+2025-08-25-11-01-17-11-01-17 : ruby_retry.sh has been initiated.
+
+2025-08-25-11-01-17 : Attempt 1 of 5...
+
+I, [2025-08-25T12:01:17.910692 #11785]  INFO -- : Report started at 2025-08-25 
+12:01:17 +0100
+I, [2025-08-25T12:01:17.910749 #11785]  INFO -- : You are running 
+ruby-grafana-reporter version 0.9.4.
+I, [2025-08-25T12:01:44.846634 #11785]  INFO -- : Report creation ended after 
+27 seconds with status 'finished'
+Success!
+
+
+
+
+
+2025-08-25-11-03-51-11-03-51 : ruby_retry.sh has been initiated.
+
+2025-08-25-11-03-51 : Attempt 1 of 5...
+
+I, [2025-08-25T12:03:52.332679 #13845]  INFO -- : Report started at 2025-08-25 
+12:03:52 +0100
+I, [2025-08-25T12:03:52.332729 #13845]  INFO -- : You are running 
+ruby-grafana-reporter version 0.9.4.
+I, [2025-08-25T12:04:19.532606 #13845]  INFO -- : Report creation ended after 
+27 seconds with status 'finished'
+Success!
+
+
+
+
+
+2025-08-25-11-06-10-11-06-10 : ruby_retry.sh has been initiated.
+
+2025-08-25-11-06-10 : Attempt 1 of 5...
+
+I, [2025-08-25T12:06:11.357914 #15873]  INFO -- : Report started at 2025-08-25 
+12:06:11 +0100
+I, [2025-08-25T12:06:11.357964 #15873]  INFO -- : You are running 
+ruby-grafana-reporter version 0.9.4.
+I, [2025-08-25T12:06:38.450267 #15873]  INFO -- : Report creation ended after 
+27 seconds with status 'finished'
+Success!
+
+
+
+
+
+2025-08-25-12-26-22-12-26-22 : ruby_retry.sh has been initiated.
+
+2025-08-25-12-26-22 : Attempt 1 of 5...
+
+I, [2025-08-25T13:26:23.407407 #29295]  INFO -- : Report started at 2025-08-25 
+13:26:23 +0100
+I, [2025-08-25T13:26:23.407475 #29295]  INFO -- : You are running 
+ruby-grafana-reporter version 0.9.4.
+I, [2025-08-25T13:26:51.215079 #29295]  INFO -- : Report creation ended after 
+28 seconds with status 'finished'
+Success!
+
+
+
+
+
+2025-08-25-12-55-17-12-55-17 : ruby_retry.sh has been initiated.
+
+2025-08-25-12-55-17 : Attempt 1 of 5...
+
+I, [2025-08-25T13:55:18.444135 #34766]  INFO -- : Report started at 2025-08-25 
+13:55:18 +0100
+I, [2025-08-25T13:55:18.444177 #34766]  INFO -- : You are running 
+ruby-grafana-reporter version 0.9.4.
+I, [2025-08-25T13:55:45.638960 #34766]  INFO -- : Report creation ended after 
+27 seconds with status 'finished'
+Success!
+
+
+
+
+
+2025-08-25-13-14-01-13-14-01 : ruby_retry.sh has been initiated.
+
+2025-08-25-13-14-01 : Attempt 1 of 5...
+
+I, [2025-08-25T14:14:02.009614 #38872]  INFO -- : Report started at 2025-08-25 
+14:14:02 +0100
+I, [2025-08-25T14:14:02.009657 #38872]  INFO -- : You are running 
+ruby-grafana-reporter version 0.9.4.
+I, [2025-08-25T14:14:29.934894 #38872]  INFO -- : Report creation ended after 
+27 seconds with status 'finished'
+Success!
+
+
+
+
+
+2025-08-25-13-19-25-13-19-25 : ruby_retry.sh has been initiated.
+
+2025-08-25-13-19-25 : Attempt 1 of 5...
+
+I, [2025-08-25T14:19:26.379757 #1194]  INFO -- : Report started at 2025-08-25 
+14:19:26 +0100
+I, [2025-08-25T14:19:26.379795 #1194]  INFO -- : You are running 
+ruby-grafana-reporter version 0.9.4.
+I, [2025-08-25T14:19:55.151815 #1194]  INFO -- : Report creation ended after 29 
+seconds with status 'finished'
+Success!
