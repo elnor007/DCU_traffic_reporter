@@ -2,6 +2,41 @@
 
 <br><br>
 
+## Introduction
+### What is the DCU Traffic Reporter?
+This is an automated reporting system which downloads traffic data from an API endpoint, which provides the user with data in a weekly report (see image 1) sent to them over email. The api endpoint sources data from the AI traffic camera located outside the DCU Stokes Building main entrance (see image 2). The purpose of this system is to effortlessly and effectively track traffic data, and to analyse both short-term and long-term trends. This reporting system has multiple use-cases such as tracking the College's carbon footprint, using it to adequately adjust resources around the campus e.g. estimating canteen food stock for the day, and much more.
+
+<br><br>
+
+
+#### *(image 1) A snippet of the weekly traffic report*
+<img width="2559" height="1439" alt="image" src="https://github.com/user-attachments/assets/904fe3ff-25c0-40fa-b042-73ba115b6e87" />
+
+<br><br>
+
+This image is an excerpt from the full report, showcasing the data from the footpath countline. This countline measures the total inbound and outbound foot traffic for 6 different classes: busses, cars, cyclists, pedestrians, motorbikes and trucks. Each panel is based on data from the past 28 days and corrolates data in 4 different ways. The top-left panel provides hourly traffic data, the top-right panel gives the average total traffic for each weekday, bottom-left panel illustrates the daily traffic count and finally the bottom-right panel provides average total traffic count for each hour, where each line corresponds to a different day of the week. Every week, this countline along with the two others (inbound and outbound road) are visualised and sent as a report to the listed email recipients.
+
+<br><br><br>
+
+#### *(image 2) The AI traffic camera outside the main entrance of the stokes building*
+<img width="921" height="531" alt="image" src="https://github.com/user-attachments/assets/d1acf275-3ca3-482a-b670-f80990b35b7a" />
+
+<br><br><br>
+
+
+#### *(image 3) A block diagram of the system*
+<img width="964" height="552" alt="image" src="https://github.com/user-attachments/assets/cf0e3f01-5b95-4d06-8e1e-4b15a83328b5" />
+
+<br><br>
+
+Here is a step-by-step illustration of the reporting process. The **API endpoint** is accessed by a python script in order to **download** traffic data from the past week. This data is then parsed/formatted, and then directly inserted into the **database**. Any data that's inserted into the database is immediately visualised on the connected **Grafana** dashboards. Once the **Ruby Reporter** is triggered by the System Daemon scheduler, it makes a request to Grafana to generate an image. Grafana uses the **image renderer** to create PNGs out of the dashboards, and then is passed back down to the Ruby Reporter, where they are embedded onto a PDF file. As soon as this PDF report is generated, it is detected by the **emailing script**, and is sent out to the recipients.
+
+
+
+
+
+<br><br><br>
+
 ## Download the Project Directory
 Make sure you have the full project directory downloaded to your machine, which
 includes all the necessary scripts and config files.
