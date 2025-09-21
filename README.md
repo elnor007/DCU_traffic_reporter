@@ -18,7 +18,7 @@ This image is an excerpt from the full report, showcasing the data from the foot
 
 <br><br><br>
 
-#### *(image 2) The AI traffic camera outside the main entrance of the stokes building*
+#### *(image 2) The AI traffic camera outside the main entrance of the Stokes (DCU engineering) building*
 <img width="921" height="531" alt="image" src="https://github.com/user-attachments/assets/d1acf275-3ca3-482a-b670-f80990b35b7a" />
 
 <br><br><br>
