@@ -1,6 +1,6 @@
 # Setup Guide & Showcase
 
-<br><br>
+<br>
 
 ## Introduction
 ### What is the DCU Traffic Reporter?
