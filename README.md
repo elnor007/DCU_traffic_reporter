@@ -1,7 +1,5 @@
 # Setup Guide & Showcase
 
-<br>
-
 ## Introduction
 ### What is the DCU Traffic Reporter?
 This is an automated reporting system which downloads traffic data from an API endpoint, which provides the user with data in a weekly report (see image 1) sent to them over email. The api endpoint sources data from the AI traffic camera located outside the DCU Stokes Building main entrance (see image 2). The purpose of this system is to effortlessly and effectively track traffic data, and to analyse both short-term and long-term trends. This reporting system has multiple use-cases such as tracking the College's carbon footprint, using it to adequately adjust resources around the campus e.g. estimating canteen food stock for the day, and much more.
